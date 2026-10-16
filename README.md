@@ -8,7 +8,7 @@ The app downloads the files in `data/` once a day from:
 https://raw.githubusercontent.com/dev-kiranpoudel/nepal-kanun/main/data/<file>
 ```
 
-and keeps a bundled copy for the first launch and for when it is offline. A change pushed to `main` reaches users on their next app launch after the daily refresh, with no app update.
+and keeps the last good download on the phone, so it works offline after its first launch (which needs internet). The app ships with no copy of this data. A change pushed to `main` reaches users on their next app launch after the daily refresh, with no app update.
 
 ## Files
 
@@ -22,3 +22,14 @@ Both files must stay valid JSON, and every law id named in `home.json` must exis
 ## Source
 
 Law titles and PDFs come from the Nepal Law Commission (https://lawcommission.gov.np). This is not a government project; the Nepal Gazette is the authoritative text. English titles are unofficial translations.
+
+## Updating the data
+
+```
+python3 scripts/build_index.py            # crawl the Law Commission site (~5 min), rebuild data/index.json
+python3 scripts/build_index.py --cached   # rebuild from the last crawl, e.g. after editing titles
+```
+
+- English titles: edit `scripts/titles_en.json` (law id to title). After a crawl the script lists new laws that still need one.
+- Home screen: edit `data/home.json`; the script checks that every id in it exists.
+- The script checks its output before writing. Commit and push `data/` to publish.
