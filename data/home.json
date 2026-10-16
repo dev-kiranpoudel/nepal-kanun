@@ -1,0 +1,103 @@
+{
+ "schemaVersion": 1,
+ "sections": [
+  "search",
+  "quickLinks",
+  "continueReading",
+  "pinned",
+  "recent",
+  "categories",
+  "popular",
+  "source"
+ ],
+ "featuredCategoryIds": [
+  "muluki",
+  "v1",
+  "v7",
+  "v9",
+  "v17"
+ ],
+ "popular": [
+  "lc-13437",
+  "lc-13454",
+  "lc-13455",
+  "lc-13458",
+  "lc-13456",
+  "lc-13309",
+  "lc-12939",
+  "lc-12254",
+  "lc-12760",
+  "lc-13400",
+  "lc-12167",
+  "lc-13303",
+  "lc-12780",
+  "lc-12214",
+  "lc-12756"
+ ],
+ "personaPins": {
+  "exam_prep": [
+   "lc-13437",
+   "lc-12254",
+   "lc-12760",
+   "lc-13423",
+   "lc-13400",
+   "lc-13421"
+  ],
+  "law_student": [
+   "lc-13437",
+   "lc-13454",
+   "lc-13455",
+   "lc-13458",
+   "lc-13456",
+   "lc-13361"
+  ],
+  "legal_pro": [
+   "lc-13454",
+   "lc-13455",
+   "lc-13458",
+   "lc-13456",
+   "lc-13361",
+   "lc-13376"
+  ],
+  "citizen": [
+   "lc-13437",
+   "lc-13309",
+   "lc-12939",
+   "lc-12167",
+   "lc-13303",
+   "lc-12780"
+  ]
+ },
+ "quickLinks": [
+  {
+   "lawId": "lc-13437",
+   "labelNe": "संविधान",
+   "labelEn": "Constitution"
+  },
+  {
+   "categoryId": "muluki",
+   "labelNe": "मुलुकी ऐन",
+   "labelEn": "Muluki Ain"
+  },
+  {
+   "lawId": "lc-13309",
+   "labelNe": "श्रम ऐन",
+   "labelEn": "Labour Act"
+  },
+  {
+   "lawId": "lc-13432",
+   "labelNe": "आयकर ऐन",
+   "labelEn": "Income Tax"
+  },
+  {
+   "lawId": "lc-12939",
+   "labelNe": "नागरिकता ऐन",
+   "labelEn": "Citizenship"
+  },
+  {
+   "lawId": "lc-13303",
+   "labelNe": "सवारी ऐन",
+   "labelEn": "Vehicle Act"
+  }
+ ]
+}
