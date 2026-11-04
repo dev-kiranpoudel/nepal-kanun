@@ -22,6 +22,9 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "index.json"
 RAW = Path(__file__).with_name("raw.json")
 TITLES_EN = Path(__file__).with_name("titles_en.json")  # hand-written English titles, by law id
+TEXT_DIR = ROOT / "data" / "text"  # converted laws: <law id>.json; the app reads text instead of the PDF
+# Laws whose text lives elsewhere. The Constitution is Sambidhan's own file, so there is one source to keep correct.
+TEXT_URLS = {"lc-13437": "https://raw.githubusercontent.com/dev-kiranpoudel/quiz/main/constitution/constitution.json"}
 SITE = "https://lawcommission.gov.np"
 
 # The 17 subject volumes (खण्ड) the Law Commission uses for both acts and regulations.
@@ -166,6 +169,8 @@ def build(raw):
         if law_id in seen:
             continue
         seen.add(law_id)
+        has_file = (TEXT_DIR / f"{law_id}.json").exists()
+        has_text = has_file or law_id in TEXT_URLS
         laws.append({
             "id": law_id,
             "titleNe": r["title"],
@@ -173,12 +178,13 @@ def build(raw):
             "type": r["type"],
             "categoryId": f"v{r['volume']}" if r["volume"] else ("muluki" if r["title"].startswith("मुलुकी") else None),
             "yearBs": year_from_title(r["title"]),
-            "status": "pdf",
+            "status": "text" if has_text else "pdf",
             "pdfUrl": r["pdf"],
             "pdfBytes": r.get("pdfBytes"),
             "sourceUrl": r["page"],
             "publishedOnBs": bs_date(r["published"]),
-            "textUrl": None,
+            "textPath": f"text/{law_id}.json" if has_file else None,  # relative to data/
+            "textUrl": TEXT_URLS.get(law_id),  # app 1.0.1 ignores this, so it keeps the PDF
             "amendedUpToBs": None,
             "version": 1,
         })
@@ -210,6 +216,8 @@ def self_check(index):
     assert set(home["featuredCategoryIds"]) <= category_ids
     for link in home["quickLinks"]:
         assert link.get("lawId") in ids or link.get("categoryId") in category_ids, f"bad quick link {link}"
+    unknown = ({f.stem for f in TEXT_DIR.glob("*.json")} | set(TEXT_URLS)) - set(ids)
+    assert not unknown, f"data/text has files for unknown laws: {unknown}"
     unknown = set(json.loads(TITLES_EN.read_text())) - set(ids)
     assert not unknown, f"titles_en.json names unknown laws: {unknown}"
 

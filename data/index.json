@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedOn": "2026-10-16",
+ "generatedOn": "2026-11-04",
  "source": "https://lawcommission.gov.np",
  "types": [
   {
@@ -170,6 +170,7 @@
    "pdfBytes": 655104,
    "sourceUrl": "https://lawcommission.gov.np/content/13423/good-government--management-and-operations--act--2064/",
    "publishedOnBs": "2081-11-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -186,6 +187,7 @@
    "pdfBytes": 508582,
    "sourceUrl": "https://lawcommission.gov.np/content/13511/monitoring-and-evaluation-act--2080/",
    "publishedOnBs": "2081-10-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -202,6 +204,7 @@
    "pdfBytes": 382169,
    "sourceUrl": "https://lawcommission.gov.np/content/13475/oath-related-instrument--2079/",
    "publishedOnBs": "2081-06-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -218,6 +221,7 @@
    "pdfBytes": 421110,
    "sourceUrl": "https://lawcommission.gov.np/content/13430/importantog--irrational-registration--act--2059/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -234,6 +238,7 @@
    "pdfBytes": 445705,
    "sourceUrl": "https://lawcommission.gov.np/content/13429/constitutional-council--work--duties--rights-and-articles-/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -250,6 +255,7 @@
    "pdfBytes": 569315,
    "sourceUrl": "https://lawcommission.gov.np/content/13428/the-remuneration-of-the-officials-of-the/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -266,6 +272,7 @@
    "pdfBytes": 317047,
    "sourceUrl": "https://lawcommission.gov.np/content/13427/the-remuneration-and-facilities-of-the-ministers/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -282,6 +289,7 @@
    "pdfBytes": 543982,
    "sourceUrl": "https://lawcommission.gov.np/content/13426/public-service-commission-ann--2079/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -298,6 +306,7 @@
    "pdfBytes": 923205,
    "sourceUrl": "https://lawcommission.gov.np/content/13425/some-public-writing-authentication--procedure--act--2063/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -314,6 +323,7 @@
    "pdfBytes": 354207,
    "sourceUrl": "https://lawcommission.gov.np/content/13422/nepal-trust-act--2064/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -330,6 +340,7 @@
    "pdfBytes": 1070470,
    "sourceUrl": "https://lawcommission.gov.np/content/13421/prevention-of-corruption--2059/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -346,6 +357,7 @@
    "pdfBytes": 888943,
    "sourceUrl": "https://lawcommission.gov.np/content/13420/commission-of-make-acceleration-inspect-research-act-/",
    "publishedOnBs": "2081-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -362,6 +374,7 @@
    "pdfBytes": 969079,
    "sourceUrl": "https://lawcommission.gov.np/content/13419/association--pradesh-and-located--coordinating-and-interralation-/",
    "publishedOnBs": "2081-04-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -378,6 +391,7 @@
    "pdfBytes": 478431,
    "sourceUrl": "https://lawcommission.gov.np/content/12885/12885-the-audit-act-2019/",
    "publishedOnBs": "2075-12-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -394,6 +408,7 @@
    "pdfBytes": 410042,
    "sourceUrl": "https://lawcommission.gov.np/content/12889/12889-an-act-to-provide-salaries-and/",
    "publishedOnBs": "2074-07-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -410,6 +425,7 @@
    "pdfBytes": 532630,
    "sourceUrl": "https://lawcommission.gov.np/content/12881/12881-national-dalit-commission-act/",
    "publishedOnBs": "2074-06-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -426,6 +442,7 @@
    "pdfBytes": 507485,
    "sourceUrl": "https://lawcommission.gov.np/content/12882/12882-tharu-commission-act-2017/",
    "publishedOnBs": "2074-06-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -442,6 +459,7 @@
    "pdfBytes": 549341,
    "sourceUrl": "https://lawcommission.gov.np/content/12883/12883-national-women-commission-act/",
    "publishedOnBs": "2074-06-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -458,6 +476,7 @@
    "pdfBytes": 538781,
    "sourceUrl": "https://lawcommission.gov.np/content/12884/12884-muslim-commisson-act-2017/",
    "publishedOnBs": "2074-06-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -474,6 +493,7 @@
    "pdfBytes": 350160,
    "sourceUrl": "https://lawcommission.gov.np/content/12872/12872-national-natural-resources-and/",
    "publishedOnBs": "2074-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -490,6 +510,7 @@
    "pdfBytes": 505086,
    "sourceUrl": "https://lawcommission.gov.np/content/12873/12873-nation-inclusion-commission-ac/",
    "publishedOnBs": "2074-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -506,6 +527,7 @@
    "pdfBytes": 499138,
    "sourceUrl": "https://lawcommission.gov.np/content/12875/12875-national-indigenous-nationalit/",
    "publishedOnBs": "2074-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -522,6 +544,7 @@
    "pdfBytes": 421787,
    "sourceUrl": "https://lawcommission.gov.np/content/12876/12876-madhesi-commission-act-2017/",
    "publishedOnBs": "2074-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -538,6 +561,7 @@
    "pdfBytes": 442998,
    "sourceUrl": "https://lawcommission.gov.np/content/12879/12879-the-president-and-vice-preside/",
    "publishedOnBs": "2074-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -554,6 +578,7 @@
    "pdfBytes": 389461,
    "sourceUrl": "https://lawcommission.gov.np/content/12890/12890-province-public-service-commis/",
    "publishedOnBs": "2071-12-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -570,6 +595,7 @@
    "pdfBytes": 408310,
    "sourceUrl": "https://lawcommission.gov.np/content/12869/12869-national-human-rights-commissi/",
    "publishedOnBs": "2068-10-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -586,6 +612,7 @@
    "pdfBytes": 1352480,
    "sourceUrl": "https://lawcommission.gov.np/content/12891/12891-public-procurement-act-2063/",
    "publishedOnBs": "2063-09-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -602,6 +629,7 @@
    "pdfBytes": 549542,
    "sourceUrl": "https://lawcommission.gov.np/content/13516/legion-act--2081/",
    "publishedOnBs": "2081-12-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -618,6 +646,7 @@
    "pdfBytes": 767446,
    "sourceUrl": "https://lawcommission.gov.np/content/13371/nepal-law-commission-act-2063/",
    "publishedOnBs": "2081-10-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -634,6 +663,7 @@
    "pdfBytes": 452069,
    "sourceUrl": "https://lawcommission.gov.np/content/13382/administrative-court-act--2076/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -650,6 +680,7 @@
    "pdfBytes": 764088,
    "sourceUrl": "https://lawcommission.gov.np/content/13381/crime-suffering-protection-act--2075/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -666,6 +697,7 @@
    "pdfBytes": 919374,
    "sourceUrl": "https://lawcommission.gov.np/content/13380/criminal-coury--punitions-and-exemption--act--2074/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -682,6 +714,7 @@
    "pdfBytes": 587184,
    "sourceUrl": "https://lawcommission.gov.np/content/13379/remuneration--facilities--and-conditions-of-judges-of/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -698,6 +731,7 @@
    "pdfBytes": 926121,
    "sourceUrl": "https://lawcommission.gov.np/content/13377/justice-council-ann--2073/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -714,6 +748,7 @@
    "pdfBytes": 882429,
    "sourceUrl": "https://lawcommission.gov.np/content/13376/justice-administration-ann--2073/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -730,6 +765,7 @@
    "pdfBytes": 767473,
    "sourceUrl": "https://lawcommission.gov.np/content/13375/justice-service-commission-act--2073/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -746,6 +782,7 @@
    "pdfBytes": 997058,
    "sourceUrl": "https://lawcommission.gov.np/content/13374/requests-of-people-who-went-missing--the/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -762,6 +799,7 @@
    "pdfBytes": 567555,
    "sourceUrl": "https://lawcommission.gov.np/content/13373/reciprocal-legal-assistance-act--2070/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -778,6 +816,7 @@
    "pdfBytes": 539053,
    "sourceUrl": "https://lawcommission.gov.np/content/13372/reconciliation-act--2068/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -794,6 +833,7 @@
    "pdfBytes": 485330,
    "sourceUrl": "https://lawcommission.gov.np/content/13370/national-judicial-estade-act--2063/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -810,6 +850,7 @@
    "pdfBytes": 512003,
    "sourceUrl": "https://lawcommission.gov.np/content/13369/notary-public-act--2063/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -826,6 +867,7 @@
    "pdfBytes": 531160,
    "sourceUrl": "https://lawcommission.gov.np/content/13368/special-court-act--2059/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -842,6 +884,7 @@
    "pdfBytes": 1040934,
    "sourceUrl": "https://lawcommission.gov.np/content/13367/arbitration-act--2055/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -858,6 +901,7 @@
    "pdfBytes": 636386,
    "sourceUrl": "https://lawcommission.gov.np/content/13366/legal-assistance-act--2054/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -874,6 +918,7 @@
    "pdfBytes": 875767,
    "sourceUrl": "https://lawcommission.gov.np/content/13365/remuneration--services-of-the-mahanyamanka--return-of/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -890,6 +935,7 @@
    "pdfBytes": 431920,
    "sourceUrl": "https://lawcommission.gov.np/content/13364/nepal-state-business-council-act--2050/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -906,6 +952,7 @@
    "pdfBytes": 462559,
    "sourceUrl": "https://lawcommission.gov.np/content/13363/supreme-court-act--2048/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -922,6 +969,7 @@
    "pdfBytes": 355983,
    "sourceUrl": "https://lawcommission.gov.np/content/13362/judicial-fund-act--2043/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -938,6 +986,7 @@
    "pdfBytes": 1139082,
    "sourceUrl": "https://lawcommission.gov.np/content/13361/proof-ann--2031/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -954,6 +1003,7 @@
    "pdfBytes": 627709,
    "sourceUrl": "https://lawcommission.gov.np/content/13360/rajalja-judanning-act--2031/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -970,6 +1020,7 @@
    "pdfBytes": 556201,
    "sourceUrl": "https://lawcommission.gov.np/content/13359/briefly-procedure-act--2028/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -986,6 +1037,7 @@
    "pdfBytes": 409660,
    "sourceUrl": "https://lawcommission.gov.np/content/13358/state-court-uraphanage-act--2017/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1002,6 +1054,7 @@
    "pdfBytes": 826222,
    "sourceUrl": "https://lawcommission.gov.np/content/13357/nepal-law-law-explanation-act--2010/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1018,6 +1071,7 @@
    "pdfBytes": 603669,
    "sourceUrl": "https://lawcommission.gov.np/content/11981/11981-national-assembly-member-elect/",
    "publishedOnBs": "2075-03-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1034,6 +1088,7 @@
    "pdfBytes": 363175,
    "sourceUrl": "https://lawcommission.gov.np/content/11991/11991-act-relating-to-remuneration/",
    "publishedOnBs": "2075-03-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1050,6 +1105,7 @@
    "pdfBytes": 526649,
    "sourceUrl": "https://lawcommission.gov.np/content/11979/11979-president-and-vice-president-e/",
    "publishedOnBs": "2074-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1066,6 +1122,7 @@
    "pdfBytes": 668988,
    "sourceUrl": "https://lawcommission.gov.np/content/11974/11974-members-of-the-house-of-repres/",
    "publishedOnBs": "2074-05-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1082,6 +1139,7 @@
    "pdfBytes": 639294,
    "sourceUrl": "https://lawcommission.gov.np/content/11975/11975-provincial-assembly-member-ele/",
    "publishedOnBs": "2074-05-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1098,6 +1156,7 @@
    "pdfBytes": 750303,
    "sourceUrl": "https://lawcommission.gov.np/content/11977/11977-political-party-act-2073/",
    "publishedOnBs": "2073-12-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1114,6 +1173,7 @@
    "pdfBytes": 278257,
    "sourceUrl": "https://lawcommission.gov.np/content/11973/11973-constituency-determining-act/",
    "publishedOnBs": "2073-12-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1130,6 +1190,7 @@
    "pdfBytes": 575207,
    "sourceUrl": "https://lawcommission.gov.np/content/11970/11970-local-level-election-act-2073/",
    "publishedOnBs": "2073-10-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1146,6 +1207,7 @@
    "pdfBytes": 498827,
    "sourceUrl": "https://lawcommission.gov.np/content/11971/11971-election-offence-and-punishme/",
    "publishedOnBs": "2073-10-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1162,6 +1224,7 @@
    "pdfBytes": 301634,
    "sourceUrl": "https://lawcommission.gov.np/content/11976/11976-voter-registration-act-2073/",
    "publishedOnBs": "2073-10-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1178,6 +1241,7 @@
    "pdfBytes": 724889,
    "sourceUrl": "https://lawcommission.gov.np/content/11972/11972-election-commission-act-2073/",
    "publishedOnBs": "2073-10-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1194,6 +1258,7 @@
    "pdfBytes": 728765,
    "sourceUrl": "https://lawcommission.gov.np/content/11984/11984-an-act-relating-to-the-federal/",
    "publishedOnBs": "2073-07-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1210,6 +1275,7 @@
    "pdfBytes": 1311329,
    "sourceUrl": "https://lawcommission.gov.np/content/11987/11987-federal-parliament-secretariat/",
    "publishedOnBs": "2064-05-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1226,6 +1292,7 @@
    "pdfBytes": 932961,
    "sourceUrl": "https://lawcommission.gov.np/content/12241/12241-prison-act-2079/",
    "publishedOnBs": "2079-06-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1242,6 +1309,7 @@
    "pdfBytes": 978815,
    "sourceUrl": "https://lawcommission.gov.np/content/12266/12266-acids-and-other-lethal-chemica/",
    "publishedOnBs": "2079-03-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1258,6 +1326,7 @@
    "pdfBytes": 979648,
    "sourceUrl": "https://lawcommission.gov.np/content/12265/12265-national-identity-card-and-vit/",
    "publishedOnBs": "2076-10-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1274,6 +1343,7 @@
    "pdfBytes": 844889,
    "sourceUrl": "https://lawcommission.gov.np/content/12263/12263-employee-adjustment-act-2075/",
    "publishedOnBs": "2075-11-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1290,6 +1360,7 @@
    "pdfBytes": 802481,
    "sourceUrl": "https://lawcommission.gov.np/content/12261/the-privacy-act-2075/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1306,6 +1377,7 @@
    "pdfBytes": 545920,
    "sourceUrl": "https://lawcommission.gov.np/content/12262/12262-the-social-security-act-2075/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1322,6 +1394,7 @@
    "pdfBytes": 1538782,
    "sourceUrl": "https://lawcommission.gov.np/content/12260/12260-disaster-risk-reduction-and-ma/",
    "publishedOnBs": "2074-07-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1338,6 +1411,7 @@
    "pdfBytes": 821932,
    "sourceUrl": "https://lawcommission.gov.np/content/12259/12259-prevention-of-organized-crime/",
    "publishedOnBs": "2070-12-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1354,6 +1428,7 @@
    "pdfBytes": 907907,
    "sourceUrl": "https://lawcommission.gov.np/content/12258/12258-the-proceeds-and-instrumentali/",
    "publishedOnBs": "2070-02-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1370,6 +1445,7 @@
    "pdfBytes": 391651,
    "sourceUrl": "https://lawcommission.gov.np/content/12257/12257-decoration-act-2064/",
    "publishedOnBs": "2064-04-32",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1386,6 +1462,7 @@
    "pdfBytes": 1080727,
    "sourceUrl": "https://lawcommission.gov.np/content/12939/12939-nepal-citizenship-act-2063/",
    "publishedOnBs": "2063-08-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1402,6 +1479,7 @@
    "pdfBytes": 351005,
    "sourceUrl": "https://lawcommission.gov.np/content/12255/12255-torture-compensation-act-2053/",
    "publishedOnBs": "2053-09-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1418,6 +1496,7 @@
    "pdfBytes": 2275879,
    "sourceUrl": "https://lawcommission.gov.np/content/12254/12254-civil-service-act-2049/",
    "publishedOnBs": "2050-02-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1434,6 +1513,7 @@
    "pdfBytes": 497495,
    "sourceUrl": "https://lawcommission.gov.np/content/12253/12253-immigration-act-2049/",
    "publishedOnBs": "2049-07-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1450,6 +1530,7 @@
    "pdfBytes": 603267,
    "sourceUrl": "https://lawcommission.gov.np/content/12252/12252-public-safety-act-2046/",
    "publishedOnBs": "2046-06-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1466,6 +1547,7 @@
    "pdfBytes": 475160,
    "sourceUrl": "https://lawcommission.gov.np/content/12251/12251-confidentiality-of-document-ac/",
    "publishedOnBs": "2039-08-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1482,6 +1564,7 @@
    "pdfBytes": 611651,
    "sourceUrl": "https://lawcommission.gov.np/content/12250/12250-nepal-administrative-training/",
    "publishedOnBs": "2039-06-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1498,6 +1581,7 @@
    "pdfBytes": 437160,
    "sourceUrl": "https://lawcommission.gov.np/content/12249/12249-association-registration-act/",
    "publishedOnBs": "2034-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1514,6 +1598,7 @@
    "pdfBytes": 765151,
    "sourceUrl": "https://lawcommission.gov.np/content/12247/12247-land-acquisition-act-2034/",
    "publishedOnBs": "2034-05-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1530,6 +1615,7 @@
    "pdfBytes": 806090,
    "sourceUrl": "https://lawcommission.gov.np/content/12246/12246-narcotic-drugs-control-act/",
    "publishedOnBs": "2033-06-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1546,6 +1632,7 @@
    "pdfBytes": 625211,
    "sourceUrl": "https://lawcommission.gov.np/content/12245/12245-donation-act-2030/",
    "publishedOnBs": "2033-05-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1562,6 +1649,7 @@
    "pdfBytes": 560790,
    "sourceUrl": "https://lawcommission.gov.np/content/12244/12244-commission-of-inquiry-act-202/",
    "publishedOnBs": "2026-05-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1578,6 +1666,7 @@
    "pdfBytes": 422155,
    "sourceUrl": "https://lawcommission.gov.np/content/12243/12243-lottery-act-2025/",
    "publishedOnBs": "2025-07-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1594,6 +1683,7 @@
    "pdfBytes": 244880,
    "sourceUrl": "https://lawcommission.gov.np/content/12242/12242-compensation-act-2019/",
    "publishedOnBs": "2019-12-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1610,6 +1700,7 @@
    "pdfBytes": 369091,
    "sourceUrl": "https://lawcommission.gov.np/content/12240/12240-national-guidance-act-2018/",
    "publishedOnBs": "2018-09-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1626,6 +1717,7 @@
    "pdfBytes": 538417,
    "sourceUrl": "https://lawcommission.gov.np/content/12239/12239-state-principalities-act-2017/",
    "publishedOnBs": "2017-11-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1642,6 +1734,7 @@
    "pdfBytes": 450354,
    "sourceUrl": "https://lawcommission.gov.np/content/12238/12238-essential-substance-control-a/",
    "publishedOnBs": "2017-11-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1658,6 +1751,7 @@
    "pdfBytes": 310916,
    "sourceUrl": "https://lawcommission.gov.np/content/12237/12237-essential-services-operation-a/",
    "publishedOnBs": "2014-08-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1674,6 +1768,7 @@
    "pdfBytes": 674772,
    "sourceUrl": "https://lawcommission.gov.np/content/12236/12236-administrative-procedure-regu/",
    "publishedOnBs": "2013-05-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1690,6 +1785,7 @@
    "pdfBytes": 509522,
    "sourceUrl": "https://lawcommission.gov.np/content/12235/12235-immovable-property-requisition/",
    "publishedOnBs": "2013-05-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1706,6 +1802,7 @@
    "pdfBytes": 662135,
    "sourceUrl": "https://lawcommission.gov.np/content/12234/12234-essential-commodities-protecti/",
    "publishedOnBs": "2012-08-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1722,6 +1819,7 @@
    "pdfBytes": 809616,
    "sourceUrl": "https://lawcommission.gov.np/content/13450/nepal-police-and-state-police--tasks-operating-/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1738,6 +1836,7 @@
    "pdfBytes": 364845,
    "sourceUrl": "https://lawcommission.gov.np/content/13449/police-personnel-adjustment-act--2076/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1754,6 +1853,7 @@
    "pdfBytes": 1207658,
    "sourceUrl": "https://lawcommission.gov.np/content/13448/army-act--2063/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1770,6 +1870,7 @@
    "pdfBytes": 579324,
    "sourceUrl": "https://lawcommission.gov.np/content/13447/armed-police-act--2058/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1786,6 +1887,7 @@
    "pdfBytes": 479473,
    "sourceUrl": "https://lawcommission.gov.np/content/13446/nepal-special-service-act-2042/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1802,6 +1904,7 @@
    "pdfBytes": 710893,
    "sourceUrl": "https://lawcommission.gov.np/content/13445/local-administration-act--2028/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1818,6 +1921,7 @@
    "pdfBytes": 349896,
    "sourceUrl": "https://lawcommission.gov.np/content/13444/national-cadet-corps-act--2027/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1834,6 +1938,7 @@
    "pdfBytes": 798551,
    "sourceUrl": "https://lawcommission.gov.np/content/13443/arms-and-ammunition-act-2019/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1850,6 +1955,7 @@
    "pdfBytes": 666963,
    "sourceUrl": "https://lawcommission.gov.np/content/13442/explosives-act-2018/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1866,6 +1972,7 @@
    "pdfBytes": 1463453,
    "sourceUrl": "https://lawcommission.gov.np/content/13441/police-act--2012/",
    "publishedOnBs": "2081-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1882,6 +1989,7 @@
    "pdfBytes": 1201135,
    "sourceUrl": "https://lawcommission.gov.np/content/13544/customs-act--2082/",
    "publishedOnBs": "2082-06-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1898,6 +2006,7 @@
    "pdfBytes": 24354610,
    "sourceUrl": "https://lawcommission.gov.np/content/13435/customs-duty-act--2081/",
    "publishedOnBs": "2081-05-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1914,6 +2023,7 @@
    "pdfBytes": 2206016,
    "sourceUrl": "https://lawcommission.gov.np/content/13433/price-classes-an--2052/",
    "publishedOnBs": "2081-05-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1930,6 +2040,7 @@
    "pdfBytes": 2908660,
    "sourceUrl": "https://lawcommission.gov.np/content/13432/income-tax-act-2002/",
    "publishedOnBs": "2081-05-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1946,6 +2057,7 @@
    "pdfBytes": 2891097,
    "sourceUrl": "https://lawcommission.gov.np/content/13431/excise-duty-act-2002/",
    "publishedOnBs": "2081-05-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1962,6 +2074,7 @@
    "pdfBytes": 533586,
    "sourceUrl": "https://lawcommission.gov.np/content/13414/the-madira-act--2031/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1978,6 +2091,7 @@
    "pdfBytes": 480477,
    "sourceUrl": "https://lawcommission.gov.np/content/13413/public-loan-management-act--2079/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -1994,6 +2108,7 @@
    "pdfBytes": 1159396,
    "sourceUrl": "https://lawcommission.gov.np/content/13412/economic-procedures-and-financial-affairs-act--2076/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2010,6 +2125,7 @@
    "pdfBytes": 651735,
    "sourceUrl": "https://lawcommission.gov.np/content/13411/intergovernment-finance-management-act--2074/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2026,6 +2142,7 @@
    "pdfBytes": 308763,
    "sourceUrl": "https://lawcommission.gov.np/content/13410/federal-contingency-fund-act--2074/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2042,6 +2159,7 @@
    "pdfBytes": 775378,
    "sourceUrl": "https://lawcommission.gov.np/content/13409/nepal-chartered-accountation-act--2053/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2058,6 +2176,7 @@
    "pdfBytes": 1196934,
    "sourceUrl": "https://lawcommission.gov.np/content/13408/revenue-leakage--research-and-control--act--2052/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2074,6 +2193,7 @@
    "pdfBytes": 433041,
    "sourceUrl": "https://lawcommission.gov.np/content/13406/the-work-conduct-fund-act--2043/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2090,6 +2210,7 @@
    "pdfBytes": 415618,
    "sourceUrl": "https://lawcommission.gov.np/content/13405/income-tickets-dastur-ann--2019/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2106,6 +2227,7 @@
    "pdfBytes": 405947,
    "sourceUrl": "https://lawcommission.gov.np/content/13404/water-kar-ain--2023/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2122,6 +2244,7 @@
    "pdfBytes": 420955,
    "sourceUrl": "https://lawcommission.gov.np/content/13403/institute-ain--2021/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2138,6 +2261,7 @@
    "pdfBytes": 338191,
    "sourceUrl": "https://lawcommission.gov.np/content/13402/restriction-act--2021/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2154,6 +2278,7 @@
    "pdfBytes": 353087,
    "sourceUrl": "https://lawcommission.gov.np/content/13401/topical-tax-asul-an--2012/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2170,6 +2295,7 @@
    "pdfBytes": 632730,
    "sourceUrl": "https://lawcommission.gov.np/content/13407/public-establishment--government-investment--management-act--2050/",
    "publishedOnBs": "2050-09-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2186,6 +2312,7 @@
    "pdfBytes": 749711,
    "sourceUrl": "https://lawcommission.gov.np/content/12210/12210-financial-intermediation-insti/",
    "publishedOnBs": "2081-10-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2202,6 +2329,7 @@
    "pdfBytes": 785634,
    "sourceUrl": "https://lawcommission.gov.np/content/12208/12208-foreign-exchange-regulation/",
    "publishedOnBs": "2081-10-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2218,6 +2346,7 @@
    "pdfBytes": 835184,
    "sourceUrl": "https://lawcommission.gov.np/content/13478/civil-investment-fund-act--2047/",
    "publishedOnBs": "2081-06-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2234,6 +2363,7 @@
    "pdfBytes": 2036083,
    "sourceUrl": "https://lawcommission.gov.np/content/12233/12233-insurance-act-2079/",
    "publishedOnBs": "2079-06-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2250,6 +2380,7 @@
    "pdfBytes": 773867,
    "sourceUrl": "https://lawcommission.gov.np/content/12215/12215-payment-and-settlement-act-20/",
    "publishedOnBs": "2075-12-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2266,6 +2397,7 @@
    "pdfBytes": 694930,
    "sourceUrl": "https://lawcommission.gov.np/content/12232/12232-pension-fund-act-2075/",
    "publishedOnBs": "2075-12-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2282,6 +2414,7 @@
    "pdfBytes": 652020,
    "sourceUrl": "https://lawcommission.gov.np/content/12231/12231-commodity-regulation-market-ac/",
    "publishedOnBs": "2074-05-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2298,6 +2431,7 @@
    "pdfBytes": 2297221,
    "sourceUrl": "https://lawcommission.gov.np/content/12214/12214-bank-and-financial-institution/",
    "publishedOnBs": "2074-01-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2314,6 +2448,7 @@
    "pdfBytes": 754869,
    "sourceUrl": "https://lawcommission.gov.np/content/12230/12230-deposit-and-credit-protection/",
    "publishedOnBs": "2073-06-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2330,6 +2465,7 @@
    "pdfBytes": 549206,
    "sourceUrl": "https://lawcommission.gov.np/content/12213/12213-banking-offenses-and-punishmen/",
    "publishedOnBs": "2064-10-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2346,6 +2482,7 @@
    "pdfBytes": 1673205,
    "sourceUrl": "https://lawcommission.gov.np/content/12229/12229-money-laundering-prevention-ac/",
    "publishedOnBs": "2064-10-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2362,6 +2499,7 @@
    "pdfBytes": 1213829,
    "sourceUrl": "https://lawcommission.gov.np/content/12228/12228-securities-act-2063/",
    "publishedOnBs": "2064-06-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2378,6 +2516,7 @@
    "pdfBytes": 1222052,
    "sourceUrl": "https://lawcommission.gov.np/content/12227/12227-secured-transaction-act-2063/",
    "publishedOnBs": "2063-07-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2394,6 +2533,7 @@
    "pdfBytes": 559649,
    "sourceUrl": "https://lawcommission.gov.np/content/12225/12225-international-finance-corporat/",
    "publishedOnBs": "2061-11-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2410,6 +2550,7 @@
    "pdfBytes": 1603033,
    "sourceUrl": "https://lawcommission.gov.np/content/12211/12211-nepal-rastra-bank-act-2058/",
    "publishedOnBs": "2058-10-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2426,6 +2567,7 @@
    "pdfBytes": 418861,
    "sourceUrl": "https://lawcommission.gov.np/content/12212/12212-recovery-of-debts-of-banks-and/",
    "publishedOnBs": "2058-10-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2442,6 +2584,7 @@
    "pdfBytes": 669402,
    "sourceUrl": "https://lawcommission.gov.np/content/12226/12226-international-financial-transa/",
    "publishedOnBs": "2054-10-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2458,6 +2601,7 @@
    "pdfBytes": 684640,
    "sourceUrl": "https://lawcommission.gov.np/content/12209/12209-negotiable-instruments-act-20/",
    "publishedOnBs": "2034-08-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2474,6 +2618,7 @@
    "pdfBytes": 637409,
    "sourceUrl": "https://lawcommission.gov.np/content/12224/12224-international-development-asso/",
    "publishedOnBs": "2019-06-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2490,6 +2635,7 @@
    "pdfBytes": 1069536,
    "sourceUrl": "https://lawcommission.gov.np/content/12223/12223-employee-provident-fund-act-2/",
    "publishedOnBs": "2019-04-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2506,6 +2652,7 @@
    "pdfBytes": 875073,
    "sourceUrl": "https://lawcommission.gov.np/content/12216/12216-bretton-woods-agreement-act-2/",
    "publishedOnBs": "2018-04-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2522,6 +2669,7 @@
    "pdfBytes": 474976,
    "sourceUrl": "https://lawcommission.gov.np/content/12205/12205-nepal-currency-promotion-act/",
    "publishedOnBs": "2014-04-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2538,6 +2686,7 @@
    "pdfBytes": 734700,
    "sourceUrl": "https://lawcommission.gov.np/content/13517/electricity-trade--e-workers--act--2081/",
    "publishedOnBs": "2081-12-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2554,6 +2703,7 @@
    "pdfBytes": 723870,
    "sourceUrl": "https://lawcommission.gov.np/content/12171/12171-the-foreign-investment-and-tec/",
    "publishedOnBs": "2081-11-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2570,6 +2720,7 @@
    "pdfBytes": 790496,
    "sourceUrl": "https://lawcommission.gov.np/content/12175/12175-accreditation-act-2079/",
    "publishedOnBs": "2079-05-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2586,6 +2737,7 @@
    "pdfBytes": 1416054,
    "sourceUrl": "https://lawcommission.gov.np/content/12174/12174-industrial-business-act-2076/",
    "publishedOnBs": "2076-09-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2602,6 +2754,7 @@
    "pdfBytes": 799520,
    "sourceUrl": "https://lawcommission.gov.np/content/12172/12172-safeguards-anti-dumping-and-c/",
    "publishedOnBs": "2076-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2618,6 +2771,7 @@
    "pdfBytes": 1534917,
    "sourceUrl": "https://lawcommission.gov.np/content/12168/12168-public-private-partnership-and/",
    "publishedOnBs": "2075-12-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2634,6 +2788,7 @@
    "pdfBytes": 950134,
    "sourceUrl": "https://lawcommission.gov.np/content/12167/12167-the-consumer-protection-act-2/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2650,6 +2805,7 @@
    "pdfBytes": 667959,
    "sourceUrl": "https://lawcommission.gov.np/content/12165/12165-direct-sale-of-goods-manageme/",
    "publishedOnBs": "2074-07-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2666,6 +2822,7 @@
    "pdfBytes": 974087,
    "sourceUrl": "https://lawcommission.gov.np/content/12164/12164-special-economic-zone-act-207/",
    "publishedOnBs": "2073-06-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2682,6 +2839,7 @@
    "pdfBytes": 812630,
    "sourceUrl": "https://lawcommission.gov.np/content/12162/12162-competition-promotion-and-mark/",
    "publishedOnBs": "2063-09-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2698,6 +2856,7 @@
    "pdfBytes": 1060618,
    "sourceUrl": "https://lawcommission.gov.np/content/12158/12158-damashahi-act-2063/",
    "publishedOnBs": "2063-08-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2714,6 +2873,7 @@
    "pdfBytes": 3002547,
    "sourceUrl": "https://lawcommission.gov.np/content/12157/12157-company-act-2063/",
    "publishedOnBs": "2063-07-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2730,6 +2890,7 @@
    "pdfBytes": 352223,
    "sourceUrl": "https://lawcommission.gov.np/content/12156/12156-multimodal-shipping-of-goods-a/",
    "publishedOnBs": "2063-07-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2746,6 +2907,7 @@
    "pdfBytes": 580272,
    "sourceUrl": "https://lawcommission.gov.np/content/12154/12154-iodized-salt-production-and-d/",
    "publishedOnBs": "2055-09-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2762,6 +2924,7 @@
    "pdfBytes": 435690,
    "sourceUrl": "https://lawcommission.gov.np/content/12153/12153-industrial-business-developmen/",
    "publishedOnBs": "2053-07-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2778,6 +2941,7 @@
    "pdfBytes": 441531,
    "sourceUrl": "https://lawcommission.gov.np/content/12150/12150-mines-and-minerals-act-2040/",
    "publishedOnBs": "2042-06-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2794,6 +2958,7 @@
    "pdfBytes": 470803,
    "sourceUrl": "https://lawcommission.gov.np/content/12149/12149-nepal-petroleum-act-2040/",
    "publishedOnBs": "2040-06-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2810,6 +2975,7 @@
    "pdfBytes": 480756,
    "sourceUrl": "https://lawcommission.gov.np/content/12147/12147-nepal-standard-certification/",
    "publishedOnBs": "2037-05-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2826,6 +2992,7 @@
    "pdfBytes": 401670,
    "sourceUrl": "https://lawcommission.gov.np/content/12146/12146-black-market-and-other-social/",
    "publishedOnBs": "2032-05-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2842,6 +3009,7 @@
    "pdfBytes": 493421,
    "sourceUrl": "https://lawcommission.gov.np/content/12144/12144-bonus-act-2030/",
    "publishedOnBs": "2030-12-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2858,6 +3026,7 @@
    "pdfBytes": 1243439,
    "sourceUrl": "https://lawcommission.gov.np/content/12143/12143-standard-weights-and-measures/",
    "publishedOnBs": "2025-08-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2874,6 +3043,7 @@
    "pdfBytes": 739046,
    "sourceUrl": "https://lawcommission.gov.np/content/12142/12142-patent-design-and-trademark-ac/",
    "publishedOnBs": "2022-05-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2890,6 +3060,7 @@
    "pdfBytes": 650869,
    "sourceUrl": "https://lawcommission.gov.np/content/12140/partnership-act--2020/",
    "publishedOnBs": "2020-11-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2906,6 +3077,7 @@
    "pdfBytes": 314552,
    "sourceUrl": "https://lawcommission.gov.np/content/12138/12138-nepal-agency-act-2014/",
    "publishedOnBs": "2014-11-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2922,6 +3094,7 @@
    "pdfBytes": 455735,
    "sourceUrl": "https://lawcommission.gov.np/content/12139/12139-private-firms-registration-act/",
    "publishedOnBs": "2014-11-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2938,6 +3111,7 @@
    "pdfBytes": 699754,
    "sourceUrl": "https://lawcommission.gov.np/content/12137/12137-export-imports-control-act/",
    "publishedOnBs": "2013-10-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2954,6 +3128,7 @@
    "pdfBytes": 1122538,
    "sourceUrl": "https://lawcommission.gov.np/content/13312/urban-area-public-transport--management--authority-act-/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2970,6 +3145,7 @@
    "pdfBytes": 975879,
    "sourceUrl": "https://lawcommission.gov.np/content/13311/nepal-railway-ann--2079/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -2986,6 +3162,7 @@
    "pdfBytes": 366148,
    "sourceUrl": "https://lawcommission.gov.np/content/13310/employment-act--2075/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3002,6 +3179,7 @@
    "pdfBytes": 1726028,
    "sourceUrl": "https://lawcommission.gov.np/content/13309/labor-act-2017/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3018,6 +3196,7 @@
    "pdfBytes": 952980,
    "sourceUrl": "https://lawcommission.gov.np/content/13308/continuous-social-security-act--2074/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3034,6 +3213,7 @@
    "pdfBytes": 1322262,
    "sourceUrl": "https://lawcommission.gov.np/content/13307/foreign-employment-act--2064/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3050,6 +3230,7 @@
    "pdfBytes": 577105,
    "sourceUrl": "https://lawcommission.gov.np/content/13306/child-labor--prohibition-and-regular--act--2056/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3066,6 +3247,7 @@
    "pdfBytes": 740915,
    "sourceUrl": "https://lawcommission.gov.np/content/13305/nepal-tourism-board-act--2053/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3082,6 +3264,7 @@
    "pdfBytes": 853578,
    "sourceUrl": "https://lawcommission.gov.np/content/13304/nepal-civil-aviation-authority-act--2053/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3098,6 +3281,7 @@
    "pdfBytes": 1845901,
    "sourceUrl": "https://lawcommission.gov.np/content/13303/riding-and-transportation-arrangements-act--2049/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3114,6 +3298,7 @@
    "pdfBytes": 819966,
    "sourceUrl": "https://lawcommission.gov.np/content/13302/trade-union-ann--2079/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3130,6 +3315,7 @@
    "pdfBytes": 799987,
    "sourceUrl": "https://lawcommission.gov.np/content/13301/tourism-ann--2035/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3146,6 +3332,7 @@
    "pdfBytes": 416654,
    "sourceUrl": "https://lawcommission.gov.np/content/13300/water-ship-registration-act--2027/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3162,6 +3349,7 @@
    "pdfBytes": 439658,
    "sourceUrl": "https://lawcommission.gov.np/content/13299/nepali-water--certificate-and-rajmuni--act--2027/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3178,6 +3366,7 @@
    "pdfBytes": 389278,
    "sourceUrl": "https://lawcommission.gov.np/content/13298/a-trades-of-nepal-s-commercial-water--2027/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3194,6 +3383,7 @@
    "pdfBytes": 472622,
    "sourceUrl": "https://lawcommission.gov.np/content/13297/hotel-law-and-madira-s-women--control--act-/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3210,6 +3400,7 @@
    "pdfBytes": 508470,
    "sourceUrl": "https://lawcommission.gov.np/content/13296/nepal-air-resources-corporation-corporation-act--2019/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3226,6 +3417,7 @@
    "pdfBytes": 811598,
    "sourceUrl": "https://lawcommission.gov.np/content/13295/non-military-air-flight--civil-aviation--act--2015/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3242,6 +3434,7 @@
    "pdfBytes": 827645,
    "sourceUrl": "https://lawcommission.gov.np/content/13486/public-service-breeding-act--2081/",
    "publishedOnBs": "2081-07-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3258,6 +3451,7 @@
    "pdfBytes": 494927,
    "sourceUrl": "https://lawcommission.gov.np/content/13400/rights-of-information-act--2064/",
    "publishedOnBs": "2081-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3274,6 +3468,7 @@
    "pdfBytes": 661579,
    "sourceUrl": "https://lawcommission.gov.np/content/13399/radio-law--use-and-regulation--act--2077/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3290,6 +3485,7 @@
    "pdfBytes": 827616,
    "sourceUrl": "https://lawcommission.gov.np/content/13398/ad--regulation--act-act--2076/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3306,6 +3502,7 @@
    "pdfBytes": 967847,
    "sourceUrl": "https://lawcommission.gov.np/content/13397/electronic--electronic--traded-international-act--2063/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3322,6 +3519,7 @@
    "pdfBytes": 984137,
    "sourceUrl": "https://lawcommission.gov.np/content/13396/telecommunications-act--2053/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3338,6 +3536,7 @@
    "pdfBytes": 469313,
    "sourceUrl": "https://lawcommission.gov.np/content/13395/working-journalists-act-2051/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3354,6 +3553,7 @@
    "pdfBytes": 613366,
    "sourceUrl": "https://lawcommission.gov.np/content/13394/national-transportation-act--2049/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3370,6 +3570,7 @@
    "pdfBytes": 614237,
    "sourceUrl": "https://lawcommission.gov.np/content/13393/nepal-sciences-and-technology-sunsoluings-act--2048/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3386,6 +3587,7 @@
    "pdfBytes": 366770,
    "sourceUrl": "https://lawcommission.gov.np/content/13392/press-council-act--2048/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3402,6 +3604,7 @@
    "pdfBytes": 817062,
    "sourceUrl": "https://lawcommission.gov.np/content/13391/printing-and-publication-act--2048/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3418,6 +3621,7 @@
    "pdfBytes": 662419,
    "sourceUrl": "https://lawcommission.gov.np/content/13390/communication-institute-act--2028/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3434,6 +3638,7 @@
    "pdfBytes": 380162,
    "sourceUrl": "https://lawcommission.gov.np/content/13389/movie--construction--performance-and-distribution--act--2026/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3450,6 +3655,7 @@
    "pdfBytes": 445001,
    "sourceUrl": "https://lawcommission.gov.np/content/13388/nepali-language-publication-institute-ann--2021/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3466,6 +3672,7 @@
    "pdfBytes": 753427,
    "sourceUrl": "https://lawcommission.gov.np/content/13387/gorkhap-institute-act--2019/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3482,6 +3689,7 @@
    "pdfBytes": 668731,
    "sourceUrl": "https://lawcommission.gov.np/content/13386/national-news-committee-act--2019/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3498,6 +3706,7 @@
    "pdfBytes": 836615,
    "sourceUrl": "https://lawcommission.gov.np/content/13385/postal-act--2019/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3514,6 +3723,7 @@
    "pdfBytes": 438838,
    "sourceUrl": "https://lawcommission.gov.np/content/13384/internal-postal-item--biming--act--2019/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3530,6 +3740,7 @@
    "pdfBytes": 454945,
    "sourceUrl": "https://lawcommission.gov.np/content/13383/radio-act--2014/",
    "publishedOnBs": "2081-04-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3546,6 +3757,7 @@
    "pdfBytes": 848948,
    "sourceUrl": "https://lawcommission.gov.np/content/13294/security-printing-act--2081/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3562,6 +3774,7 @@
    "pdfBytes": 1011481,
    "sourceUrl": "https://lawcommission.gov.np/content/12179/12179-data-act-2079/",
    "publishedOnBs": "2079-05-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3578,6 +3791,7 @@
    "pdfBytes": 909199,
    "sourceUrl": "https://lawcommission.gov.np/content/12198/12198-water-and-sanitation-act-2079/",
    "publishedOnBs": "2079-05-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3594,6 +3808,7 @@
    "pdfBytes": 611394,
    "sourceUrl": "https://lawcommission.gov.np/content/12202/12202-the-right-to-housing-act-2075/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3610,6 +3825,7 @@
    "pdfBytes": 590618,
    "sourceUrl": "https://lawcommission.gov.np/content/12200/12200-act-on-reconstruction-of-struc/",
    "publishedOnBs": "2072-08-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3626,6 +3842,7 @@
    "pdfBytes": 767715,
    "sourceUrl": "https://lawcommission.gov.np/content/12196/12196-water-management-board-act-20/",
    "publishedOnBs": "2063-08-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3642,6 +3859,7 @@
    "pdfBytes": 562036,
    "sourceUrl": "https://lawcommission.gov.np/content/12194/12194-road-board-act-2058/",
    "publishedOnBs": "2059-03-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3658,6 +3876,7 @@
    "pdfBytes": 1052678,
    "sourceUrl": "https://lawcommission.gov.np/content/12190/12190-nepal-engineering-council-act/",
    "publishedOnBs": "2055-11-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3674,6 +3893,7 @@
    "pdfBytes": 603133,
    "sourceUrl": "https://lawcommission.gov.np/content/12192/12192-construction-business-act-205/",
    "publishedOnBs": "2055-11-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3690,6 +3910,7 @@
    "pdfBytes": 529340,
    "sourceUrl": "https://lawcommission.gov.np/content/12187/12187-building-act-2055/",
    "publishedOnBs": "2055-03-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3706,6 +3927,7 @@
    "pdfBytes": 497670,
    "sourceUrl": "https://lawcommission.gov.np/content/12186/12186-ownership-of-joint-housing-act/",
    "publishedOnBs": "2054-08-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3722,6 +3944,7 @@
    "pdfBytes": 952030,
    "sourceUrl": "https://lawcommission.gov.np/content/12185/12185-urban-development-fund-act-20/",
    "publishedOnBs": "2053-10-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3738,6 +3961,7 @@
    "pdfBytes": 601840,
    "sourceUrl": "https://lawcommission.gov.np/content/12184/12184-nepal-water-supply-corporation/",
    "publishedOnBs": "2046-07-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3754,6 +3978,7 @@
    "pdfBytes": 886912,
    "sourceUrl": "https://lawcommission.gov.np/content/12182/12182-urban-development-act-2045/",
    "publishedOnBs": "2045-08-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3770,6 +3995,7 @@
    "pdfBytes": 578980,
    "sourceUrl": "https://lawcommission.gov.np/content/12183/12183-kathmandu-valley-development-a/",
    "publishedOnBs": "2045-08-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3786,6 +4012,7 @@
    "pdfBytes": 676093,
    "sourceUrl": "https://lawcommission.gov.np/content/12180/12180-public-roads-act-2031/",
    "publishedOnBs": "2031-06-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3802,6 +4029,7 @@
    "pdfBytes": 349799,
    "sourceUrl": "https://lawcommission.gov.np/content/12177/12177-provincial-development-plans/",
    "publishedOnBs": "2013-07-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3818,6 +4046,7 @@
    "pdfBytes": 425398,
    "sourceUrl": "https://lawcommission.gov.np/content/12176/12176-development-committee-act-201/",
    "publishedOnBs": "2013-04-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3834,6 +4063,7 @@
    "pdfBytes": 898414,
    "sourceUrl": "https://lawcommission.gov.np/content/13476/food-hygiene-and-quality-act--2081/",
    "publishedOnBs": "2081-06-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3850,6 +4080,7 @@
    "pdfBytes": 944227,
    "sourceUrl": "https://lawcommission.gov.np/content/12764/12764-the-council-of-animal-health-a/",
    "publishedOnBs": "2079-06-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3866,6 +4097,7 @@
    "pdfBytes": 840345,
    "sourceUrl": "https://lawcommission.gov.np/content/12769/12769-pesticide-disposal-act-2019/",
    "publishedOnBs": "2076-05-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3882,6 +4114,7 @@
    "pdfBytes": 1060587,
    "sourceUrl": "https://lawcommission.gov.np/content/12758/12758-land-use-act-2019/",
    "publishedOnBs": "2076-05-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3898,6 +4131,7 @@
    "pdfBytes": 861189,
    "sourceUrl": "https://lawcommission.gov.np/content/12757/12757-the-right-to-food-and-food-sov/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3914,6 +4148,7 @@
    "pdfBytes": 1896539,
    "sourceUrl": "https://lawcommission.gov.np/content/12756/12756-cooperatives-act-2017/",
    "publishedOnBs": "2074-07-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3930,6 +4165,7 @@
    "pdfBytes": 1012007,
    "sourceUrl": "https://lawcommission.gov.np/content/12755/branch-kwarantin-and-protection-act--2064/",
    "publishedOnBs": "2064-05-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3946,6 +4182,7 @@
    "pdfBytes": 849539,
    "sourceUrl": "https://lawcommission.gov.np/content/12751/12751-bonded-labour-prohibition-ac/",
    "publishedOnBs": "2058-11-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3962,6 +4199,7 @@
    "pdfBytes": 661649,
    "sourceUrl": "https://lawcommission.gov.np/content/12749/12749-animal-slaughterhouse-and-meat/",
    "publishedOnBs": "2055-12-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3978,6 +4216,7 @@
    "pdfBytes": 711233,
    "sourceUrl": "https://lawcommission.gov.np/content/12746/12746-nepal-veterinary-council-act/",
    "publishedOnBs": "2055-11-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -3994,6 +4233,7 @@
    "pdfBytes": 756510,
    "sourceUrl": "https://lawcommission.gov.np/content/12744/12744-animal-health-and-livestock-se/",
    "publishedOnBs": "2055-04-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4010,6 +4250,7 @@
    "pdfBytes": 587304,
    "sourceUrl": "https://lawcommission.gov.np/content/12740/12740-national-tea-and-coffee-develo/",
    "publishedOnBs": "2050-02-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4026,6 +4267,7 @@
    "pdfBytes": 577889,
    "sourceUrl": "https://lawcommission.gov.np/content/12737/12737-national-dairy-development-boa/",
    "publishedOnBs": "2049-01-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4042,6 +4284,7 @@
    "pdfBytes": 635418,
    "sourceUrl": "https://lawcommission.gov.np/content/12734/12734-nepal-agriculture-research-cou/",
    "publishedOnBs": "2048-01-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4058,6 +4301,7 @@
    "pdfBytes": 852167,
    "sourceUrl": "https://lawcommission.gov.np/content/12863/12863-seeds-act-1988/",
    "publishedOnBs": "2045-07-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4074,6 +4318,7 @@
    "pdfBytes": 598549,
    "sourceUrl": "https://lawcommission.gov.np/content/12862/12862-land-revenue-act-1978/",
    "publishedOnBs": "2034-09-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4090,6 +4335,7 @@
    "pdfBytes": 647599,
    "sourceUrl": "https://lawcommission.gov.np/content/12861/12861-feed-act-1976/",
    "publishedOnBs": "2033-07-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4106,6 +4352,7 @@
    "pdfBytes": 607634,
    "sourceUrl": "https://lawcommission.gov.np/content/12787/12787-kharka-land-nationalization-ac/",
    "publishedOnBs": "2031-06-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4122,6 +4369,7 @@
    "pdfBytes": 501748,
    "sourceUrl": "https://lawcommission.gov.np/content/12785/12785-jhora-area-land-act-1971/",
    "publishedOnBs": "2028-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4138,6 +4386,7 @@
    "pdfBytes": 714182,
    "sourceUrl": "https://lawcommission.gov.np/content/12784/12784-raptidun-development-areas-la/",
    "publishedOnBs": "2024-07-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4154,6 +4403,7 @@
    "pdfBytes": 1132371,
    "sourceUrl": "https://lawcommission.gov.np/content/12780/12780-lands-act-1964/",
    "publishedOnBs": "2021-08-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4170,6 +4420,7 @@
    "pdfBytes": 609720,
    "sourceUrl": "https://lawcommission.gov.np/content/12779/12779-leasehold-act1964/",
    "publishedOnBs": "2021-06-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4186,6 +4437,7 @@
    "pdfBytes": 869778,
    "sourceUrl": "https://lawcommission.gov.np/content/12777/12777-land-survey-and-measurement/",
    "publishedOnBs": "2019-12-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4202,6 +4454,7 @@
    "pdfBytes": 696167,
    "sourceUrl": "https://lawcommission.gov.np/content/12776/12776-aquatic-animal-protection-act/",
    "publishedOnBs": "2017-09-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4218,6 +4471,7 @@
    "pdfBytes": 856124,
    "sourceUrl": "https://lawcommission.gov.np/content/12770/12770-birta-abolition-act-1959/",
    "publishedOnBs": "2016-09-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4234,6 +4488,7 @@
    "pdfBytes": 561069,
    "sourceUrl": "https://lawcommission.gov.np/content/12773/12773-restriction-on-leasing-the-fre/",
    "publishedOnBs": "2015-08-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4250,6 +4505,7 @@
    "pdfBytes": 956027,
    "sourceUrl": "https://lawcommission.gov.np/content/12570/12570-the-forests-act-2019/",
    "publishedOnBs": "2076-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4266,6 +4522,7 @@
    "pdfBytes": 979902,
    "sourceUrl": "https://lawcommission.gov.np/content/12571/12571-the-environment-protection-act/",
    "publishedOnBs": "2076-06-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4282,6 +4539,7 @@
    "pdfBytes": 728804,
    "sourceUrl": "https://lawcommission.gov.np/content/12577/12577-electricity-regulatory-commiss/",
    "publishedOnBs": "2074-05-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4298,6 +4556,7 @@
    "pdfBytes": 545144,
    "sourceUrl": "https://lawcommission.gov.np/content/12576/12576-the-control-of-international-t/",
    "publishedOnBs": "2074-01-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4314,6 +4573,7 @@
    "pdfBytes": 592249,
    "sourceUrl": "https://lawcommission.gov.np/content/12574/12574-electricity-theft-control-act/",
    "publishedOnBs": "2058-10-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4330,6 +4590,7 @@
    "pdfBytes": 474571,
    "sourceUrl": "https://lawcommission.gov.np/content/12564/12564-water-resources-act-1992/",
    "publishedOnBs": "2049-09-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4346,6 +4607,7 @@
    "pdfBytes": 660107,
    "sourceUrl": "https://lawcommission.gov.np/content/12568/12568-electricity-act-1992/",
    "publishedOnBs": "2049-09-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4362,6 +4624,7 @@
    "pdfBytes": 698820,
    "sourceUrl": "https://lawcommission.gov.np/content/12561/12561-nepal-electricity-authority-ac/",
    "publishedOnBs": "2041-07-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4378,6 +4641,7 @@
    "pdfBytes": 295211,
    "sourceUrl": "https://lawcommission.gov.np/content/12558/12558-soil-and-watershed-conservatio/",
    "publishedOnBs": "2039-08-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4394,6 +4658,7 @@
    "pdfBytes": 385303,
    "sourceUrl": "https://lawcommission.gov.np/content/12555/12555-national-trust-for-nature-cons/",
    "publishedOnBs": "2039-07-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4410,6 +4675,7 @@
    "pdfBytes": 619854,
    "sourceUrl": "https://lawcommission.gov.np/content/12553/12553-national-parks-and-wildlife-co/",
    "publishedOnBs": "2029-11-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4426,6 +4692,7 @@
    "pdfBytes": 302417,
    "sourceUrl": "https://lawcommission.gov.np/content/12551/12551-private-forests-nationalizatio/",
    "publishedOnBs": "2013-10-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4442,6 +4709,7 @@
    "pdfBytes": 707754,
    "sourceUrl": "https://lawcommission.gov.np/content/13531/mandid-during-during-health-sciences-university-act-/",
    "publishedOnBs": "2082-04-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4458,6 +4726,7 @@
    "pdfBytes": 808265,
    "sourceUrl": "https://lawcommission.gov.np/content/13485/nepal-university-act--2081/",
    "publishedOnBs": "2081-07-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4474,6 +4743,7 @@
    "pdfBytes": 1194716,
    "sourceUrl": "https://lawcommission.gov.np/content/13477/vidushi-yogmaya-himalayan-ayurveda-university-ain--2079/",
    "publishedOnBs": "2081-06-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4490,6 +4760,7 @@
    "pdfBytes": 873565,
    "sourceUrl": "https://lawcommission.gov.np/content/12709/12709-madan-bhandari-university-of-s/",
    "publishedOnBs": "2079-04-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4506,6 +4777,7 @@
    "pdfBytes": 835703,
    "sourceUrl": "https://lawcommission.gov.np/content/12710/12710-national-sports-development-ac/",
    "publishedOnBs": "2077-03-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4522,6 +4794,7 @@
    "pdfBytes": 400567,
    "sourceUrl": "https://lawcommission.gov.np/content/12708/12708-passport-act-2019/",
    "publishedOnBs": "2076-06-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4538,6 +4811,7 @@
    "pdfBytes": 881888,
    "sourceUrl": "https://lawcommission.gov.np/content/12711/12711-national-medical-education-act/",
    "publishedOnBs": "2075-11-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4554,6 +4828,7 @@
    "pdfBytes": 539365,
    "sourceUrl": "https://lawcommission.gov.np/content/12707/12707-the-act-relating-to-compulsory/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4570,6 +4845,7 @@
    "pdfBytes": 765158,
    "sourceUrl": "https://lawcommission.gov.np/content/12706/12706-rajarhsi-janak-universoity-act/",
    "publishedOnBs": "2074-07-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4586,6 +4862,7 @@
    "pdfBytes": 1104136,
    "sourceUrl": "https://lawcommission.gov.np/content/12704/12704-nepal-open-university-act-201/",
    "publishedOnBs": "2073-03-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4602,6 +4879,7 @@
    "pdfBytes": 809863,
    "sourceUrl": "https://lawcommission.gov.np/content/12733/12733-national-youth-council-act-2/",
    "publishedOnBs": "2072-04-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4618,6 +4896,7 @@
    "pdfBytes": 363914,
    "sourceUrl": "https://lawcommission.gov.np/content/12696/12696-extradition-act-2014/",
    "publishedOnBs": "2070-12-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4634,6 +4913,7 @@
    "pdfBytes": 962672,
    "sourceUrl": "https://lawcommission.gov.np/content/12595/12595-far-western-university-act-20/",
    "publishedOnBs": "2067-03-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4650,6 +4930,7 @@
    "pdfBytes": 991787,
    "sourceUrl": "https://lawcommission.gov.np/content/12597/12597-mid-western-university-act-20/",
    "publishedOnBs": "2067-03-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4666,6 +4947,7 @@
    "pdfBytes": 709713,
    "sourceUrl": "https://lawcommission.gov.np/content/12598/12598-agriculture-and-forestry-unive/",
    "publishedOnBs": "2067-03-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4682,6 +4964,7 @@
    "pdfBytes": 407765,
    "sourceUrl": "https://lawcommission.gov.np/content/12591/12591-non-resident-nepali-act-2064/",
    "publishedOnBs": "2064-05-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4698,6 +4981,7 @@
    "pdfBytes": 856513,
    "sourceUrl": "https://lawcommission.gov.np/content/12586/12586-lumbini-bouddha-university-act/",
    "publishedOnBs": "2063-07-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4714,6 +4998,7 @@
    "pdfBytes": 922641,
    "sourceUrl": "https://lawcommission.gov.np/content/12582/12582-pokhara-university-act-1996/",
    "publishedOnBs": "2053-11-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4730,6 +5015,7 @@
    "pdfBytes": 618242,
    "sourceUrl": "https://lawcommission.gov.np/content/12580/12580-purwanchal-university-act-199/",
    "publishedOnBs": "2050-09-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4746,6 +5032,7 @@
    "pdfBytes": 429360,
    "sourceUrl": "https://lawcommission.gov.np/content/12575/12575-the-university-grants-commissi/",
    "publishedOnBs": "2050-08-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4762,6 +5049,7 @@
    "pdfBytes": 548612,
    "sourceUrl": "https://lawcommission.gov.np/content/12579/12579-nepal-scouts-act-1993/",
    "publishedOnBs": "2050-08-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4778,6 +5066,7 @@
    "pdfBytes": 782882,
    "sourceUrl": "https://lawcommission.gov.np/content/12572/12572-tribhuwan-university-act-1992/",
    "publishedOnBs": "2049-09-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4794,6 +5083,7 @@
    "pdfBytes": 607484,
    "sourceUrl": "https://lawcommission.gov.np/content/12569/12569-kathmandu-university-act-1991/",
    "publishedOnBs": "2048-08-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4810,6 +5100,7 @@
    "pdfBytes": 363580,
    "sourceUrl": "https://lawcommission.gov.np/content/12566/12566-nepal-treaty-act-1990/",
    "publishedOnBs": "2047-08-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4826,6 +5117,7 @@
    "pdfBytes": 512327,
    "sourceUrl": "https://lawcommission.gov.np/content/12562/12562-technical-education-and-vocati/",
    "publishedOnBs": "2045-07-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4842,6 +5134,7 @@
    "pdfBytes": 761884,
    "sourceUrl": "https://lawcommission.gov.np/content/12560/12560-nepal-sanskrit-university-act/",
    "publishedOnBs": "2043-08-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4858,6 +5151,7 @@
    "pdfBytes": 442420,
    "sourceUrl": "https://lawcommission.gov.np/content/12556/12556-international-center-for-integ/",
    "publishedOnBs": "2040-06-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4874,6 +5168,7 @@
    "pdfBytes": 1336178,
    "sourceUrl": "https://lawcommission.gov.np/content/12554/12554-education-act-1971/",
    "publishedOnBs": "2028-05-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4890,6 +5185,7 @@
    "pdfBytes": 403347,
    "sourceUrl": "https://lawcommission.gov.np/content/12552/12552-diplomatic-privilege-and-immun/",
    "publishedOnBs": "2027-06-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4906,6 +5202,7 @@
    "pdfBytes": 641960,
    "sourceUrl": "https://lawcommission.gov.np/content/12438/scholarship-act--2021/",
    "publishedOnBs": "2021-05-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4922,6 +5219,7 @@
    "pdfBytes": 564606,
    "sourceUrl": "https://lawcommission.gov.np/content/12878/12878-the-right-to-safe-motherhood-a/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4938,6 +5236,7 @@
    "pdfBytes": 680965,
    "sourceUrl": "https://lawcommission.gov.np/content/12880/12880-the-public-health-service-act/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4954,6 +5253,7 @@
    "pdfBytes": 657290,
    "sourceUrl": "https://lawcommission.gov.np/content/12877/12877-health-insurance-act-2017/",
    "publishedOnBs": "2074-07-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4970,6 +5270,7 @@
    "pdfBytes": 479217,
    "sourceUrl": "https://lawcommission.gov.np/content/12874/12874-rapti-academy-of-health-and-sc/",
    "publishedOnBs": "2074-06-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -4986,6 +5287,7 @@
    "pdfBytes": 472793,
    "sourceUrl": "https://lawcommission.gov.np/content/12870/12870-pokhara-academy-of-health-and/",
    "publishedOnBs": "2072-10-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5002,6 +5304,7 @@
    "pdfBytes": 638978,
    "sourceUrl": "https://lawcommission.gov.np/content/12871/12871-immunization-act-2016/",
    "publishedOnBs": "2072-10-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5018,6 +5321,7 @@
    "pdfBytes": 495488,
    "sourceUrl": "https://lawcommission.gov.np/content/12868/12868-karnali-academy-of-health-scie/",
    "publishedOnBs": "2068-07-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5034,6 +5338,7 @@
    "pdfBytes": 605504,
    "sourceUrl": "https://lawcommission.gov.np/content/12866/12866-tobacco-products-control-and/",
    "publishedOnBs": "2068-01-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5050,6 +5355,7 @@
    "pdfBytes": 674750,
    "sourceUrl": "https://lawcommission.gov.np/content/12864/12864-security-of-the-health-workers/",
    "publishedOnBs": "2066-01-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5066,6 +5372,7 @@
    "pdfBytes": 552325,
    "sourceUrl": "https://lawcommission.gov.np/content/12865/12865-patan-academy-of-health-scienc/",
    "publishedOnBs": "2064-10-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5082,6 +5389,7 @@
    "pdfBytes": 461308,
    "sourceUrl": "https://lawcommission.gov.np/content/12860/12860-national-academy-of-medical-sc/",
    "publishedOnBs": "2063-08-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5098,6 +5406,7 @@
    "pdfBytes": 778799,
    "sourceUrl": "https://lawcommission.gov.np/content/12857/12857-nepal-pharmacy-council-act-20/",
    "publishedOnBs": "2057-10-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5114,6 +5423,7 @@
    "pdfBytes": 677319,
    "sourceUrl": "https://lawcommission.gov.np/content/12849/12849-martyr-gangalal-national-heart/",
    "publishedOnBs": "2057-10-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5130,6 +5440,7 @@
    "pdfBytes": 898041,
    "sourceUrl": "https://lawcommission.gov.np/content/12843/12843-the-human-body-organ-transplan/",
    "publishedOnBs": "2055-10-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5146,6 +5457,7 @@
    "pdfBytes": 1182589,
    "sourceUrl": "https://lawcommission.gov.np/content/12837/12837-nepal-health-service-act-1997/",
    "publishedOnBs": "2053-11-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5162,6 +5474,7 @@
    "pdfBytes": 690965,
    "sourceUrl": "https://lawcommission.gov.np/content/12839/12839-bp-koirala-memorial-cancer-hos/",
    "publishedOnBs": "2053-11-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5178,6 +5491,7 @@
    "pdfBytes": 749219,
    "sourceUrl": "https://lawcommission.gov.np/content/12830/12830-nepal-health-professional-coun/",
    "publishedOnBs": "2053-11-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5194,6 +5508,7 @@
    "pdfBytes": 631990,
    "sourceUrl": "https://lawcommission.gov.np/content/12828/12828-nepal-nursing-council-act-205/",
    "publishedOnBs": "2052-12-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5210,6 +5525,7 @@
    "pdfBytes": 426628,
    "sourceUrl": "https://lawcommission.gov.np/content/12827/12827-the-bp-koirala-institute-of/",
    "publishedOnBs": "2049-10-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5226,6 +5542,7 @@
    "pdfBytes": 591416,
    "sourceUrl": "https://lawcommission.gov.np/content/12823/12823-mothers-milk-substitutes-con/",
    "publishedOnBs": "2049-08-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5242,6 +5559,7 @@
    "pdfBytes": 618873,
    "sourceUrl": "https://lawcommission.gov.np/content/12790/12790-nepal-health-research-council/",
    "publishedOnBs": "2047-12-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5258,6 +5576,7 @@
    "pdfBytes": 756255,
    "sourceUrl": "https://lawcommission.gov.np/content/12788/12788-ayurveda-medical-council-act/",
    "publishedOnBs": "2045-07-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5274,6 +5593,7 @@
    "pdfBytes": 550693,
    "sourceUrl": "https://lawcommission.gov.np/content/12786/12786-drugs-act-1978/",
    "publishedOnBs": "2035-07-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5290,6 +5610,7 @@
    "pdfBytes": 638364,
    "sourceUrl": "https://lawcommission.gov.np/content/12778/12778-smallpox-control-act-1964/",
    "publishedOnBs": "2020-11-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5306,6 +5627,7 @@
    "pdfBytes": 582478,
    "sourceUrl": "https://lawcommission.gov.np/content/12781/12781-infectious-disease-act-1964/",
    "publishedOnBs": "2020-11-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5322,6 +5644,7 @@
    "pdfBytes": 1436604,
    "sourceUrl": "https://lawcommission.gov.np/content/12783/12783-nepal-medical-council-act-196/",
    "publishedOnBs": "2020-11-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5338,6 +5661,7 @@
    "pdfBytes": 755594,
    "sourceUrl": "https://lawcommission.gov.np/content/12921/12921-human-trafficking-and-transpor/",
    "publishedOnBs": "2081-03-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5354,6 +5678,7 @@
    "pdfBytes": 1303117,
    "sourceUrl": "https://lawcommission.gov.np/content/12933/12933-the-act-relating-to-children/",
    "publishedOnBs": "2075-06-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5370,6 +5695,7 @@
    "pdfBytes": 596395,
    "sourceUrl": "https://lawcommission.gov.np/content/12932/12932-language-commission-act-2074/",
    "publishedOnBs": "2074-06-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5386,6 +5712,7 @@
    "pdfBytes": 1047761,
    "sourceUrl": "https://lawcommission.gov.np/content/12931/12931-the-act-relating-to-rights-of/",
    "publishedOnBs": "2074-06-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5402,6 +5729,7 @@
    "pdfBytes": 706819,
    "sourceUrl": "https://lawcommission.gov.np/content/12930/12930-witchcraft-accusation-crime-a/",
    "publishedOnBs": "2072-04-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5418,6 +5746,7 @@
    "pdfBytes": 641302,
    "sourceUrl": "https://lawcommission.gov.np/content/12927/12927-the-sexual-harassment-at-workp/",
    "publishedOnBs": "2071-07-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5434,6 +5763,7 @@
    "pdfBytes": 576840,
    "sourceUrl": "https://lawcommission.gov.np/content/12926/12926-domestic-violence-offence-and/",
    "publishedOnBs": "2066-01-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5450,6 +5780,7 @@
    "pdfBytes": 718189,
    "sourceUrl": "https://lawcommission.gov.np/content/12922/12922-nepal-fine-arts-academy-act-2/",
    "publishedOnBs": "2064-05-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5466,6 +5797,7 @@
    "pdfBytes": 710523,
    "sourceUrl": "https://lawcommission.gov.np/content/12923/12923-nepal-music-and-dance-academy/",
    "publishedOnBs": "2064-05-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5482,6 +5814,7 @@
    "pdfBytes": 664889,
    "sourceUrl": "https://lawcommission.gov.np/content/12924/12924-nepal-academy-act-2007/",
    "publishedOnBs": "2064-05-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5498,6 +5831,7 @@
    "pdfBytes": 981175,
    "sourceUrl": "https://lawcommission.gov.np/content/12918/12918-senior-citizen-act-2006/",
    "publishedOnBs": "2063-08-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5514,6 +5848,7 @@
    "pdfBytes": 812341,
    "sourceUrl": "https://lawcommission.gov.np/content/12916/12916-the-copyright-act-2002/",
    "publishedOnBs": "2059-04-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5530,6 +5865,7 @@
    "pdfBytes": 788659,
    "sourceUrl": "https://lawcommission.gov.np/content/12909/12909-greater-janakpur-area-developm/",
    "publishedOnBs": "2055-03-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5546,6 +5882,7 @@
    "pdfBytes": 741289,
    "sourceUrl": "https://lawcommission.gov.np/content/12907/social-welfare-act--2049/",
    "publishedOnBs": "2049-07-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5562,6 +5899,7 @@
    "pdfBytes": 636867,
    "sourceUrl": "https://lawcommission.gov.np/content/12905/12905-archives-preservation-act-19/",
    "publishedOnBs": "2046-07-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5578,6 +5916,7 @@
    "pdfBytes": 875189,
    "sourceUrl": "https://lawcommission.gov.np/content/12901/12901-pashupati-area-development-tru/",
    "publishedOnBs": "2044-04-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5594,6 +5933,7 @@
    "pdfBytes": 697609,
    "sourceUrl": "https://lawcommission.gov.np/content/12898/12898-lumbini-development-trust-act/",
    "publishedOnBs": "2042-05-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5610,6 +5950,7 @@
    "pdfBytes": 895620,
    "sourceUrl": "https://lawcommission.gov.np/content/12896/12896-the-guthi-corporation-act-197/",
    "publishedOnBs": "2033-07-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5626,6 +5967,7 @@
    "pdfBytes": 556589,
    "sourceUrl": "https://lawcommission.gov.np/content/12904/12904-social-practices-reform-act/",
    "publishedOnBs": "2033-07-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5642,6 +5984,7 @@
    "pdfBytes": 753018,
    "sourceUrl": "https://lawcommission.gov.np/content/12738/12738-ancient-monuments-preservation/",
    "publishedOnBs": "2013-07-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5658,6 +6001,7 @@
    "pdfBytes": 2191482,
    "sourceUrl": "https://lawcommission.gov.np/content/12760/12760-local-government-regulation-ac/",
    "publishedOnBs": "2074-06-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5674,6 +6018,7 @@
    "pdfBytes": 656475,
    "sourceUrl": "https://lawcommission.gov.np/content/12748/12748-solid-waste-management-act201/",
    "publishedOnBs": "2068-03-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5690,6 +6035,7 @@
    "pdfBytes": 373772,
    "sourceUrl": "https://lawcommission.gov.np/content/12747/12747-the-caste-based-discriminati/",
    "publishedOnBs": "2068-02-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5706,6 +6052,7 @@
    "pdfBytes": 485583,
    "sourceUrl": "https://lawcommission.gov.np/content/12745/12745-national-foundation-for-uplift/",
    "publishedOnBs": "2058-10-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5722,6 +6069,7 @@
    "pdfBytes": 647391,
    "sourceUrl": "https://lawcommission.gov.np/content/12742/12742-local-development-training-aca/",
    "publishedOnBs": "2050-02-32",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5738,6 +6086,7 @@
    "pdfBytes": 623252,
    "sourceUrl": "https://lawcommission.gov.np/content/13629/government-decision-making--simplification-and-digitization--regulations-/",
    "publishedOnBs": "2083-06-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5754,6 +6103,7 @@
    "pdfBytes": 322284,
    "sourceUrl": "https://lawcommission.gov.np/content/13624/nepal-audit-service--formation--classification-and-appointment-/",
    "publishedOnBs": "2083-06-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5770,6 +6120,7 @@
    "pdfBytes": 1067855,
    "sourceUrl": "https://lawcommission.gov.np/content/13570/government-of-nepal--division-of-work--rules-/",
    "publishedOnBs": "2083-02-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5786,6 +6137,7 @@
    "pdfBytes": 232927,
    "sourceUrl": "https://lawcommission.gov.np/content/13556/human-rights-award-fund-operating-regulations--2075/",
    "publishedOnBs": "2082-10-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5802,6 +6154,7 @@
    "pdfBytes": 1043700,
    "sourceUrl": "https://lawcommission.gov.np/content/13059/13059-good-governance-management-an/",
    "publishedOnBs": "2081-11-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5818,6 +6171,7 @@
    "pdfBytes": 1002260,
    "sourceUrl": "https://lawcommission.gov.np/content/12669/12669-government-of-nepal-performan/",
    "publishedOnBs": "2081-11-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5834,6 +6188,7 @@
    "pdfBytes": 863708,
    "sourceUrl": "https://lawcommission.gov.np/content/12624/12624-data-regulation-2080/",
    "publishedOnBs": "2081-01-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5850,6 +6205,7 @@
    "pdfBytes": 2498384,
    "sourceUrl": "https://lawcommission.gov.np/content/12937/12937-public-service-commission-regu/",
    "publishedOnBs": "2079-05-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5866,6 +6222,7 @@
    "pdfBytes": 946038,
    "sourceUrl": "https://lawcommission.gov.np/content/12443/12443-aboriginal-tribes-commission-r/",
    "publishedOnBs": "2079-03-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5882,6 +6239,7 @@
    "pdfBytes": 816181,
    "sourceUrl": "https://lawcommission.gov.np/content/12855/12855-national-constituent-commissio/",
    "publishedOnBs": "2079-03-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5898,6 +6256,7 @@
    "pdfBytes": 926735,
    "sourceUrl": "https://lawcommission.gov.np/content/12847/12847-national-commission-for-women/",
    "publishedOnBs": "2078-03-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5914,6 +6273,7 @@
    "pdfBytes": 527089,
    "sourceUrl": "https://lawcommission.gov.np/content/12627/12627-tharu-commission-regulation-2/",
    "publishedOnBs": "2078-01-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5930,6 +6290,7 @@
    "pdfBytes": 866490,
    "sourceUrl": "https://lawcommission.gov.np/content/12846/12846-national-natural-resource-and/",
    "publishedOnBs": "2076-08-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5946,6 +6307,7 @@
    "pdfBytes": 794478,
    "sourceUrl": "https://lawcommission.gov.np/content/12635/12635-new-nepal-construction-fund-o/",
    "publishedOnBs": "2069-01-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5962,6 +6324,7 @@
    "pdfBytes": 716686,
    "sourceUrl": "https://lawcommission.gov.np/content/12655/12655-nepal-trust-regulation-2065/",
    "publishedOnBs": "2065-12-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5978,6 +6341,7 @@
    "pdfBytes": 617566,
    "sourceUrl": "https://lawcommission.gov.np/content/12848/12848-national-vigilance-center-ope/",
    "publishedOnBs": "2065-12-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -5994,6 +6358,7 @@
    "pdfBytes": 558627,
    "sourceUrl": "https://lawcommission.gov.np/content/12646/12646-civil-service-employee-conduct/",
    "publishedOnBs": "2065-11-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6010,6 +6375,7 @@
    "pdfBytes": 1100325,
    "sourceUrl": "https://lawcommission.gov.np/content/12985/12985-peace-fund-operation-regulat/",
    "publishedOnBs": "2065-08-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6026,6 +6392,7 @@
    "pdfBytes": 3449332,
    "sourceUrl": "https://lawcommission.gov.np/content/13051/13051-public-procurement-regulation/",
    "publishedOnBs": "2064-05-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6042,6 +6409,7 @@
    "pdfBytes": 497130,
    "sourceUrl": "https://lawcommission.gov.np/content/12693/12693-the-prime-ministers-disaster/",
    "publishedOnBs": "2063-10-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6058,6 +6426,7 @@
    "pdfBytes": 513866,
    "sourceUrl": "https://lawcommission.gov.np/content/12484/12484-authentication-of-public-docu/",
    "publishedOnBs": "2063-08-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6074,6 +6443,7 @@
    "pdfBytes": 891876,
    "sourceUrl": "https://lawcommission.gov.np/content/12294/12294-abuse-of-authority-investigati/",
    "publishedOnBs": "2059-05-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6090,6 +6460,7 @@
    "pdfBytes": 556493,
    "sourceUrl": "https://lawcommission.gov.np/content/12697/12697-prime-ministers-relief-fund-r/",
    "publishedOnBs": "2058-12-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6106,6 +6477,7 @@
    "pdfBytes": 981977,
    "sourceUrl": "https://lawcommission.gov.np/content/12651/12651-nepal-economic-planning-and-st/",
    "publishedOnBs": "2051-05-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6122,6 +6494,7 @@
    "pdfBytes": 1487104,
    "sourceUrl": "https://lawcommission.gov.np/content/13514/insurance-regulations--2081/",
    "publishedOnBs": "2081-11-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6138,6 +6511,7 @@
    "pdfBytes": 1881109,
    "sourceUrl": "https://lawcommission.gov.np/content/13491/property-purity--money-lingiering--retainment-rules--2081/",
    "publishedOnBs": "2081-08-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6154,6 +6528,7 @@
    "pdfBytes": 616283,
    "sourceUrl": "https://lawcommission.gov.np/content/13482/retirement-fund-rules--2076/",
    "publishedOnBs": "2081-07-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6170,6 +6545,7 @@
    "pdfBytes": 204341,
    "sourceUrl": "https://lawcommission.gov.np/content/13481/rules-of-practical-executive-officer-of-the/",
    "publishedOnBs": "2081-07-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6186,6 +6562,7 @@
    "pdfBytes": 221264,
    "sourceUrl": "https://lawcommission.gov.np/content/13480/deposit-suuretrangers-regulations--2075/",
    "publishedOnBs": "2081-07-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6202,6 +6579,7 @@
    "pdfBytes": 1466991,
    "sourceUrl": "https://lawcommission.gov.np/content/12470/12470-credit-protection-regulations/",
    "publishedOnBs": "2075-03-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6218,6 +6596,7 @@
    "pdfBytes": 348379,
    "sourceUrl": "https://lawcommission.gov.np/content/12442/12442-contingency-insurance-fund-ope/",
    "publishedOnBs": "2060-06-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6234,6 +6613,7 @@
    "pdfBytes": 557087,
    "sourceUrl": "https://lawcommission.gov.np/content/12795/12795-banks-and-financial-institutio/",
    "publishedOnBs": "2059-08-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6250,6 +6630,7 @@
    "pdfBytes": 425773,
    "sourceUrl": "https://lawcommission.gov.np/content/12934/12934-notary-regulation-2041/",
    "publishedOnBs": "2041-04-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6266,6 +6647,7 @@
    "pdfBytes": 276483,
    "sourceUrl": "https://lawcommission.gov.np/content/12950/12950-foreign-exchange-regulatory/",
    "publishedOnBs": "2020-06-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6282,6 +6664,7 @@
    "pdfBytes": 646237,
    "sourceUrl": "https://lawcommission.gov.np/content/13576/accreditation-rules--2083/",
    "publishedOnBs": "2083-03-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6298,6 +6681,7 @@
    "pdfBytes": 757937,
    "sourceUrl": "https://lawcommission.gov.np/content/12962/12962-special-economic-zone-regulati/",
    "publishedOnBs": "2081-11-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6314,6 +6698,7 @@
    "pdfBytes": 1093221,
    "sourceUrl": "https://lawcommission.gov.np/content/13484/rules-of-direct-sales--management-and-regulation-/",
    "publishedOnBs": "2081-07-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6330,6 +6715,7 @@
    "pdfBytes": 1769454,
    "sourceUrl": "https://lawcommission.gov.np/content/12458/12458-industrial-business-regulation/",
    "publishedOnBs": "2078-12-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6346,6 +6732,7 @@
    "pdfBytes": 462855,
    "sourceUrl": "https://lawcommission.gov.np/content/13066/13066-safeguard-anti-dumping-and-co/",
    "publishedOnBs": "2077-10-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6362,6 +6749,7 @@
    "pdfBytes": 812945,
    "sourceUrl": "https://lawcommission.gov.np/content/12945/12945-foreign-investment-and-technol/",
    "publishedOnBs": "2077-09-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6378,6 +6766,7 @@
    "pdfBytes": 1560230,
    "sourceUrl": "https://lawcommission.gov.np/content/13080/13080-standard-weight-and-measure-s/",
    "publishedOnBs": "2077-02-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6394,6 +6783,7 @@
    "pdfBytes": 1598613,
    "sourceUrl": "https://lawcommission.gov.np/content/13052/13052-public-private-partnership-and/",
    "publishedOnBs": "2077-01-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6410,6 +6800,7 @@
    "pdfBytes": 1116851,
    "sourceUrl": "https://lawcommission.gov.np/content/12452/12452-consumer-protection-regulation/",
    "publishedOnBs": "2076-03-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6426,6 +6817,7 @@
    "pdfBytes": 432675,
    "sourceUrl": "https://lawcommission.gov.np/content/12685/12685-petroleum-products-and-gas-pri/",
    "publishedOnBs": "2071-12-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6442,6 +6834,7 @@
    "pdfBytes": 195699,
    "sourceUrl": "https://lawcommission.gov.np/content/12811/12811-multimodal-carriage-of-goods-r/",
    "publishedOnBs": "2066-07-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6458,6 +6851,7 @@
    "pdfBytes": 203651,
    "sourceUrl": "https://lawcommission.gov.np/content/12690/12690-competition-promotion-and-mark/",
    "publishedOnBs": "2065-10-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6474,6 +6868,7 @@
    "pdfBytes": 323354,
    "sourceUrl": "https://lawcommission.gov.np/content/12457/12457-industrial-revival-fund-opera/",
    "publishedOnBs": "2064-09-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6490,6 +6885,7 @@
    "pdfBytes": 421001,
    "sourceUrl": "https://lawcommission.gov.np/content/12630/damasahi-regulations--2064/",
    "publishedOnBs": "2064-08-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6506,6 +6902,7 @@
    "pdfBytes": 1992266,
    "sourceUrl": "https://lawcommission.gov.np/content/12498/12498-mines-and-minerals-regulations/",
    "publishedOnBs": "2056-05-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6522,6 +6919,7 @@
    "pdfBytes": 2563687,
    "sourceUrl": "https://lawcommission.gov.np/content/12684/12684-petroleum-regulation-2041/",
    "publishedOnBs": "2041-12-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6538,6 +6936,7 @@
    "pdfBytes": 487696,
    "sourceUrl": "https://lawcommission.gov.np/content/12654/12654-nepal-standard-certification/",
    "publishedOnBs": "2040-06-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6554,6 +6953,7 @@
    "pdfBytes": 340815,
    "sourceUrl": "https://lawcommission.gov.np/content/12796/12796-bonus-regulation-2039/",
    "publishedOnBs": "2039-02-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6570,6 +6970,7 @@
    "pdfBytes": 876592,
    "sourceUrl": "https://lawcommission.gov.np/content/12640/12640-export-import-rules-2034/",
    "publishedOnBs": "2034-12-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6586,6 +6987,7 @@
    "pdfBytes": 703056,
    "sourceUrl": "https://lawcommission.gov.np/content/12700/12700-private-firm-registration-regu/",
    "publishedOnBs": "2034-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6602,6 +7004,7 @@
    "pdfBytes": 5706255,
    "sourceUrl": "https://lawcommission.gov.np/content/13082/13082-standard-weight-and-measure-ru/",
    "publishedOnBs": "2027-05-29",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6618,6 +7021,7 @@
    "pdfBytes": 429095,
    "sourceUrl": "https://lawcommission.gov.np/content/12489/12489-mineral-survey-remuneration-a/",
    "publishedOnBs": "2024-08-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6634,6 +7038,7 @@
    "pdfBytes": 661593,
    "sourceUrl": "https://lawcommission.gov.np/content/12455/12455-agency-amendment-and-consolid/",
    "publishedOnBs": "2019-10-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6650,6 +7055,7 @@
    "pdfBytes": 817511,
    "sourceUrl": "https://lawcommission.gov.np/content/12432/12432-asset-management-regulations-o/",
    "publishedOnBs": "2079-08-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6666,6 +7072,7 @@
    "pdfBytes": 638368,
    "sourceUrl": "https://lawcommission.gov.np/content/12943/12943-advertisement-regulating-reg/",
    "publishedOnBs": "2077-07-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6682,6 +7089,7 @@
    "pdfBytes": 403391,
    "sourceUrl": "https://lawcommission.gov.np/content/12632/12632-telecommunication-infrastructu/",
    "publishedOnBs": "2074-06-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6698,6 +7106,7 @@
    "pdfBytes": 333817,
    "sourceUrl": "https://lawcommission.gov.np/content/13060/13060-right-to-information-regulatio/",
    "publishedOnBs": "2065-10-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6714,6 +7123,7 @@
    "pdfBytes": 669960,
    "sourceUrl": "https://lawcommission.gov.np/content/12955/12955-electronic-transaction-regulat/",
    "publishedOnBs": "2064-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6730,6 +7140,7 @@
    "pdfBytes": 343789,
    "sourceUrl": "https://lawcommission.gov.np/content/13061/13061-information-technology-tribuna/",
    "publishedOnBs": "2064-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6746,6 +7157,7 @@
    "pdfBytes": 869384,
    "sourceUrl": "https://lawcommission.gov.np/content/12602/12602-films-production-exhibition/",
    "publishedOnBs": "2057-03-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6762,6 +7174,7 @@
    "pdfBytes": 167251,
    "sourceUrl": "https://lawcommission.gov.np/content/12812/12812-printing-rules-2055/",
    "publishedOnBs": "2055-12-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6778,6 +7191,7 @@
    "pdfBytes": 871234,
    "sourceUrl": "https://lawcommission.gov.np/content/12631/12631-telecommunications-regulation/",
    "publishedOnBs": "2054-07-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6794,6 +7208,7 @@
    "pdfBytes": 442851,
    "sourceUrl": "https://lawcommission.gov.np/content/12994/12994-working-journalist-regulation/",
    "publishedOnBs": "2053-09-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6810,6 +7225,7 @@
    "pdfBytes": 1692534,
    "sourceUrl": "https://lawcommission.gov.np/content/12845/12845-national-broadcasting-regulati/",
    "publishedOnBs": "2052-02-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6826,6 +7242,7 @@
    "pdfBytes": 274478,
    "sourceUrl": "https://lawcommission.gov.np/content/12750/12750-press-council-procedure-regu/",
    "publishedOnBs": "2050-04-04",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6842,6 +7259,7 @@
    "pdfBytes": 1361472,
    "sourceUrl": "https://lawcommission.gov.np/content/12606/12606-printing-and-publishing-regula/",
    "publishedOnBs": "2049-05-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6858,6 +7276,7 @@
    "pdfBytes": 823389,
    "sourceUrl": "https://lawcommission.gov.np/content/12858/radio-communications--licence--regulations--2049/",
    "publishedOnBs": "2049-04-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6874,6 +7293,7 @@
    "pdfBytes": 322438,
    "sourceUrl": "https://lawcommission.gov.np/content/12854/12854-national-news-committee-regula/",
    "publishedOnBs": "2041-09-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6890,6 +7310,7 @@
    "pdfBytes": 408289,
    "sourceUrl": "https://lawcommission.gov.np/content/12426/12426-additional-postal-regulations/",
    "publishedOnBs": "2034-04-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6906,6 +7327,7 @@
    "pdfBytes": 378825,
    "sourceUrl": "https://lawcommission.gov.np/content/13094/13094-postal-saving-bank-regulation/",
    "publishedOnBs": "2033-03-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6922,6 +7344,7 @@
    "pdfBytes": 257085,
    "sourceUrl": "https://lawcommission.gov.np/content/12633/12633-dhanadesh-regulation-2031/",
    "publishedOnBs": "2031-06-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6938,6 +7361,7 @@
    "pdfBytes": 600432,
    "sourceUrl": "https://lawcommission.gov.np/content/12589/12589-gorkhapatra-corporation-rules/",
    "publishedOnBs": "2021-12-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6954,6 +7378,7 @@
    "pdfBytes": 791992,
    "sourceUrl": "https://lawcommission.gov.np/content/13093/13093-postal-service-regulation-202/",
    "publishedOnBs": "2020-12-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6970,6 +7395,7 @@
    "pdfBytes": 229094,
    "sourceUrl": "https://lawcommission.gov.np/content/12444/12444-inland-postal-commodity-insura/",
    "publishedOnBs": "2019-08-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -6986,6 +7412,7 @@
    "pdfBytes": 420817,
    "sourceUrl": "https://lawcommission.gov.np/content/13483/rules-related-to-the-rebuilding-structure-affected/",
    "publishedOnBs": "2081-07-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7002,6 +7429,7 @@
    "pdfBytes": 505913,
    "sourceUrl": "https://lawcommission.gov.np/content/12475/12475-kathmandu-valley-development-a/",
    "publishedOnBs": "2068-12-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7018,6 +7446,7 @@
    "pdfBytes": 957993,
    "sourceUrl": "https://lawcommission.gov.np/content/12798/12798-building-regulation-2066/",
    "publishedOnBs": "2066-08-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7034,6 +7463,7 @@
    "pdfBytes": 379700,
    "sourceUrl": "https://lawcommission.gov.np/content/13022/13022-joint-ownership-housing-regula/",
    "publishedOnBs": "2060-04-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7050,6 +7480,7 @@
    "pdfBytes": 1004306,
    "sourceUrl": "https://lawcommission.gov.np/content/12649/12649-construction-business-regulati/",
    "publishedOnBs": "2056-10-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7066,6 +7497,7 @@
    "pdfBytes": 401187,
    "sourceUrl": "https://lawcommission.gov.np/content/12634/12634-urban-development-fund-regulat/",
    "publishedOnBs": "2054-06-13",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7082,6 +7514,7 @@
    "pdfBytes": 1160462,
    "sourceUrl": "https://lawcommission.gov.np/content/12652/nepal-engineering-service--formation--groups-and-claps/",
    "publishedOnBs": "2051-02-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7098,6 +7531,7 @@
    "pdfBytes": 360372,
    "sourceUrl": "https://lawcommission.gov.np/content/13053/13053-public-road-compensation-dete/",
    "publishedOnBs": "2022-07-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7114,6 +7548,7 @@
    "pdfBytes": 1654237,
    "sourceUrl": "https://lawcommission.gov.np/content/13587/seed-regulation--2081/",
    "publishedOnBs": "2083-04-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7130,6 +7565,7 @@
    "pdfBytes": 1254805,
    "sourceUrl": "https://lawcommission.gov.np/content/13346/animal-health-and-animal-service-businessmen-council/",
    "publishedOnBs": "2081-04-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7146,6 +7582,7 @@
    "pdfBytes": 2273447,
    "sourceUrl": "https://lawcommission.gov.np/content/13292/biomic-poisonic-demonstration-rules--2081/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7162,6 +7599,7 @@
    "pdfBytes": 1168776,
    "sourceUrl": "https://lawcommission.gov.np/content/12492/12492-food-rights-and-food-sovereign/",
    "publishedOnBs": "2081-01-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7178,6 +7616,7 @@
    "pdfBytes": 1158421,
    "sourceUrl": "https://lawcommission.gov.np/content/12799/12799-land-use-regulations-2079/",
    "publishedOnBs": "2079-02-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7194,6 +7633,7 @@
    "pdfBytes": 460513,
    "sourceUrl": "https://lawcommission.gov.np/content/12759/12759-bird-flue-control-regulation/",
    "publishedOnBs": "2078-01-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7210,6 +7650,7 @@
    "pdfBytes": 1432442,
    "sourceUrl": "https://lawcommission.gov.np/content/13046/13046-cooperative-regulation-2075/",
    "publishedOnBs": "2076-01-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7226,6 +7667,7 @@
    "pdfBytes": 266099,
    "sourceUrl": "https://lawcommission.gov.np/content/12468/regulations-related-regulations-related-to-kamaiy-labor/",
    "publishedOnBs": "2068-08-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7242,6 +7684,7 @@
    "pdfBytes": 1192311,
    "sourceUrl": "https://lawcommission.gov.np/content/12792/plant-kwarantin-and-protection-regulations--2066/",
    "publishedOnBs": "2066-12-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7258,6 +7701,7 @@
    "pdfBytes": 422541,
    "sourceUrl": "https://lawcommission.gov.np/content/13057/13057-fair-price-cooperative-shop-op/",
    "publishedOnBs": "2065-11-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7274,6 +7718,7 @@
    "pdfBytes": 1358993,
    "sourceUrl": "https://lawcommission.gov.np/content/12607/12607-land-survey-regulation-2078/",
    "publishedOnBs": "2058-03-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7290,6 +7735,7 @@
    "pdfBytes": 833965,
    "sourceUrl": "https://lawcommission.gov.np/content/12680/12680-animal-slaughterhouse-and-meat/",
    "publishedOnBs": "2057-10-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7306,6 +7752,7 @@
    "pdfBytes": 979291,
    "sourceUrl": "https://lawcommission.gov.np/content/12681/12681-animal-health-and-animal-servi/",
    "publishedOnBs": "2057-10-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7322,6 +7769,7 @@
    "pdfBytes": 767498,
    "sourceUrl": "https://lawcommission.gov.np/content/12653/12653-nepal-agricultural-service-co/",
    "publishedOnBs": "2050-10-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7338,6 +7786,7 @@
    "pdfBytes": 496257,
    "sourceUrl": "https://lawcommission.gov.np/content/12629/12629-feedstuffs-regulations-2041/",
    "publishedOnBs": "2041-04-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7354,6 +7803,7 @@
    "pdfBytes": 2515953,
    "sourceUrl": "https://lawcommission.gov.np/content/12810/12810-land-revenue-regulation-2036/",
    "publishedOnBs": "2036-11-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7370,6 +7820,7 @@
    "pdfBytes": 364643,
    "sourceUrl": "https://lawcommission.gov.np/content/12491/purk-land-nationalization-rules--2033/",
    "publishedOnBs": "2033-07-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7386,6 +7837,7 @@
    "pdfBytes": 1022466,
    "sourceUrl": "https://lawcommission.gov.np/content/12493/12493-food-regulations-2027/",
    "publishedOnBs": "2027-05-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7402,6 +7854,7 @@
    "pdfBytes": 382953,
    "sourceUrl": "https://lawcommission.gov.np/content/12826/12826-raptidun-development-zone-land/",
    "publishedOnBs": "2024-09-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7418,6 +7871,7 @@
    "pdfBytes": 391583,
    "sourceUrl": "https://lawcommission.gov.np/content/12449/12449-rules-relating-to-ukhada-2021/",
    "publishedOnBs": "2021-10-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7434,6 +7888,7 @@
    "pdfBytes": 3720380,
    "sourceUrl": "https://lawcommission.gov.np/content/12802/12802-land-regulation-2021/",
    "publishedOnBs": "2021-08-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7450,6 +7905,7 @@
    "pdfBytes": 614416,
    "sourceUrl": "https://lawcommission.gov.np/content/12793/12793-birta-abolition-regulations-2/",
    "publishedOnBs": "2017-08-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7466,6 +7922,7 @@
    "pdfBytes": 715090,
    "sourceUrl": "https://lawcommission.gov.np/content/13580/educational-counselling--language-teaching-and-preparatory-classes/",
    "publishedOnBs": "2083-03-32",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7482,6 +7939,7 @@
    "pdfBytes": 1049852,
    "sourceUrl": "https://lawcommission.gov.np/content/13579/foreign-educational-programs--operation-and-regulation--regulations-/",
    "publishedOnBs": "2083-03-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7498,6 +7956,7 @@
    "pdfBytes": 2021669,
    "sourceUrl": "https://lawcommission.gov.np/content/13539/honanary-consal-regulations-2039/",
    "publishedOnBs": "2082-05-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7514,6 +7973,7 @@
    "pdfBytes": 1391233,
    "sourceUrl": "https://lawcommission.gov.np/content/13490/national-sports-development-rules--2079/",
    "publishedOnBs": "2081-08-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7530,6 +7990,7 @@
    "pdfBytes": 1106215,
    "sourceUrl": "https://lawcommission.gov.np/content/13489/national-chakout-education-rules--2077/",
    "publishedOnBs": "2081-08-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7546,6 +8007,7 @@
    "pdfBytes": 511809,
    "sourceUrl": "https://lawcommission.gov.np/content/12431/12431-regulations-on-compulsory-and/",
    "publishedOnBs": "2077-06-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7562,6 +8024,7 @@
    "pdfBytes": 1423339,
    "sourceUrl": "https://lawcommission.gov.np/content/12856/12856-passport-regulation-2077/",
    "publishedOnBs": "2077-04-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7578,6 +8041,7 @@
    "pdfBytes": 568670,
    "sourceUrl": "https://lawcommission.gov.np/content/12842/12842-national-examination-board-reg/",
    "publishedOnBs": "2076-03-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7594,6 +8058,7 @@
    "pdfBytes": 413096,
    "sourceUrl": "https://lawcommission.gov.np/content/12658/12658-nepal-foreign-affair-regulatio/",
    "publishedOnBs": "2069-03-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7610,6 +8075,7 @@
    "pdfBytes": 810877,
    "sourceUrl": "https://lawcommission.gov.np/content/12583/12583-non-resident-nepalese-regulati/",
    "publishedOnBs": "2066-05-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7626,6 +8092,7 @@
    "pdfBytes": 1457137,
    "sourceUrl": "https://lawcommission.gov.np/content/12605/12605-scholarship-regulation-2060/",
    "publishedOnBs": "2060-04-26",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7642,6 +8109,7 @@
    "pdfBytes": 3486098,
    "sourceUrl": "https://lawcommission.gov.np/content/12987/12987-education-regulation-2059/",
    "publishedOnBs": "2059-02-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7658,6 +8126,7 @@
    "pdfBytes": 1064895,
    "sourceUrl": "https://lawcommission.gov.np/content/12986/12986-teacher-service-commission-reg/",
    "publishedOnBs": "2057-07-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7674,6 +8143,7 @@
    "pdfBytes": 646658,
    "sourceUrl": "https://lawcommission.gov.np/content/12703/12703-technical-education-and-vocati/",
    "publishedOnBs": "2051-02-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7690,6 +8160,7 @@
    "pdfBytes": 764307,
    "sourceUrl": "https://lawcommission.gov.np/content/12667/12667-nepal-education-service-const/",
    "publishedOnBs": "2050-10-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7706,6 +8177,7 @@
    "pdfBytes": 291900,
    "sourceUrl": "https://lawcommission.gov.np/content/13038/13038-government-hostel-regulation/",
    "publishedOnBs": "2029-09-11",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7722,6 +8194,7 @@
    "pdfBytes": 284753,
    "sourceUrl": "https://lawcommission.gov.np/content/12695/12695-certification-procedure-regula/",
    "publishedOnBs": "2024-05-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7738,6 +8211,7 @@
    "pdfBytes": 3007809,
    "sourceUrl": "https://lawcommission.gov.np/content/12671/12671-nepal-health-service-regulatio/",
    "publishedOnBs": "2081-11-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7754,6 +8228,7 @@
    "pdfBytes": 2349966,
    "sourceUrl": "https://lawcommission.gov.np/content/13058/13058-safe-maternity-and-reproductiv/",
    "publishedOnBs": "2077-06-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7770,6 +8245,7 @@
    "pdfBytes": 1672353,
    "sourceUrl": "https://lawcommission.gov.np/content/12609/12609-public-health-service-regulati/",
    "publishedOnBs": "2077-06-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7786,6 +8262,7 @@
    "pdfBytes": 1379473,
    "sourceUrl": "https://lawcommission.gov.np/content/13089/13089-health-insurance-regulation-2/",
    "publishedOnBs": "2076-02-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7802,6 +8279,7 @@
    "pdfBytes": 710591,
    "sourceUrl": "https://lawcommission.gov.np/content/12581/vaccination-regulation-2074/",
    "publishedOnBs": "2075-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7818,6 +8296,7 @@
    "pdfBytes": 1101471,
    "sourceUrl": "https://lawcommission.gov.np/content/12809/12809-human-body-organ-transplantati/",
    "publishedOnBs": "2073-08-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7834,6 +8313,7 @@
    "pdfBytes": 572140,
    "sourceUrl": "https://lawcommission.gov.np/content/13087/13087-safety-of-health-worker-and-he/",
    "publishedOnBs": "2069-05-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7850,6 +8330,7 @@
    "pdfBytes": 339893,
    "sourceUrl": "https://lawcommission.gov.np/content/13063/13063-tobacco-control-and-regulator/",
    "publishedOnBs": "2069-01-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7866,6 +8347,7 @@
    "pdfBytes": 707154,
    "sourceUrl": "https://lawcommission.gov.np/content/12670/12670-nepal-health-practitioner-coun/",
    "publishedOnBs": "2056-04-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7882,6 +8364,7 @@
    "pdfBytes": 556645,
    "sourceUrl": "https://lawcommission.gov.np/content/12446/12446-breast-feeding-substitutes-sa/",
    "publishedOnBs": "2051-04-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7898,6 +8381,7 @@
    "pdfBytes": 840710,
    "sourceUrl": "https://lawcommission.gov.np/content/12466/12466-drug-standard-regulations-204/",
    "publishedOnBs": "2043-04-27",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7914,6 +8398,7 @@
    "pdfBytes": 410420,
    "sourceUrl": "https://lawcommission.gov.np/content/12459/12459-drug-testing-and-inspection-re/",
    "publishedOnBs": "2040-04-16",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7930,6 +8415,7 @@
    "pdfBytes": 1456365,
    "sourceUrl": "https://lawcommission.gov.np/content/12461/12461-medicines-registration-regulat/",
    "publishedOnBs": "2038-04-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7946,6 +8432,7 @@
    "pdfBytes": 400196,
    "sourceUrl": "https://lawcommission.gov.np/content/12464/12464-drug-advisory-council-and-drug/",
    "publishedOnBs": "2037-03-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7962,6 +8449,7 @@
    "pdfBytes": 990250,
    "sourceUrl": "https://lawcommission.gov.np/content/12660/12660-nepal-medical-council-regulati/",
    "publishedOnBs": "2024-09-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7978,6 +8466,7 @@
    "pdfBytes": 397536,
    "sourceUrl": "https://lawcommission.gov.np/content/12958/12958-smallpox-control-regulation-2/",
    "publishedOnBs": "2024-01-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -7994,6 +8483,7 @@
    "pdfBytes": 392596,
    "sourceUrl": "https://lawcommission.gov.np/content/13338/marriage-registration-rules--2028/",
    "publishedOnBs": "2081-04-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8010,6 +8500,7 @@
    "pdfBytes": 1388259,
    "sourceUrl": "https://lawcommission.gov.np/content/12765/12765-children-regulation-2078/",
    "publishedOnBs": "2079-02-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8026,6 +8517,7 @@
    "pdfBytes": 1041180,
    "sourceUrl": "https://lawcommission.gov.np/content/12435/12435-regulations-on-the-rights-of-p/",
    "publishedOnBs": "2077-05-01",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8042,6 +8534,7 @@
    "pdfBytes": 302640,
    "sourceUrl": "https://lawcommission.gov.np/content/12454/12454-single-womens-protection-fund/",
    "publishedOnBs": "2070-02-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8058,6 +8551,7 @@
    "pdfBytes": 506786,
    "sourceUrl": "https://lawcommission.gov.np/content/12936/12936-gender-based-violence-preventi/",
    "publishedOnBs": "2067-09-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8074,6 +8568,7 @@
    "pdfBytes": 387941,
    "sourceUrl": "https://lawcommission.gov.np/content/12601/12601-domestic-violence-offences-an/",
    "publishedOnBs": "2067-05-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8090,6 +8585,7 @@
    "pdfBytes": 570932,
    "sourceUrl": "https://lawcommission.gov.np/content/12620/12620-senior-citizens-regulation-20/",
    "publishedOnBs": "2065-08-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8106,6 +8602,7 @@
    "pdfBytes": 530727,
    "sourceUrl": "https://lawcommission.gov.np/content/12808/12808-human-trafficking-and-traffick/",
    "publishedOnBs": "2065-08-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8122,6 +8619,7 @@
    "pdfBytes": 184358,
    "sourceUrl": "https://lawcommission.gov.np/content/12437/12437-records-preservation-regulatio/",
    "publishedOnBs": "2064-02-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8138,6 +8636,7 @@
    "pdfBytes": 420816,
    "sourceUrl": "https://lawcommission.gov.np/content/12688/12688-copyright-regulation-2061/",
    "publishedOnBs": "2061-04-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8154,6 +8653,7 @@
    "pdfBytes": 420816,
    "sourceUrl": "https://lawcommission.gov.np/content/12702/12702-ancient-monument-preservation/",
    "publishedOnBs": "2046-12-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8170,6 +8670,7 @@
    "pdfBytes": 240349,
    "sourceUrl": "https://lawcommission.gov.np/content/13047/13047-social-behavior-amendment-re/",
    "publishedOnBs": "2033-08-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8186,6 +8687,7 @@
    "pdfBytes": 320884,
    "sourceUrl": "https://lawcommission.gov.np/content/12445/12445-child-rescue-emergency-fund-o/",
    "publishedOnBs": "2019-08-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8202,6 +8704,7 @@
    "pdfBytes": 198262,
    "sourceUrl": "https://lawcommission.gov.np/content/12639/12639-theater-restoration-control/",
    "publishedOnBs": "2018-02-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8218,6 +8721,7 @@
    "pdfBytes": 596111,
    "sourceUrl": "https://lawcommission.gov.np/content/13084/13084-local-infrastructure-developme/",
    "publishedOnBs": "2077-07-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8234,6 +8738,7 @@
    "pdfBytes": 405331,
    "sourceUrl": "https://lawcommission.gov.np/content/12625/12625-rescue-and-assistance-fund-ope/",
    "publishedOnBs": "2075-09-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8250,6 +8755,7 @@
    "pdfBytes": 350490,
    "sourceUrl": "https://lawcommission.gov.np/content/12615/12615-racial-discrimination-and-unto/",
    "publishedOnBs": "2074-03-05",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8266,6 +8772,7 @@
    "pdfBytes": 527931,
    "sourceUrl": "https://lawcommission.gov.np/content/12752/12752-garbage-management-regulation/",
    "publishedOnBs": "2069-03-10",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8282,6 +8789,7 @@
    "pdfBytes": 463868,
    "sourceUrl": "https://lawcommission.gov.np/content/13086/13086-local-development-fee-fund-reg/",
    "publishedOnBs": "2056-04-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8293,12 +8801,13 @@
    "type": "constitution",
    "categoryId": null,
    "yearBs": null,
-   "status": "pdf",
+   "status": "text",
    "pdfUrl": "https://giwmscdnone.gov.np/media/pdf_upload/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A5%8B%20%E0%A4%B8_%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%20unicode%20%E0%A4%AD%E0%A4%BE%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A7_mtbuyjt.pdf",
    "pdfBytes": 3209892,
    "sourceUrl": "https://lawcommission.gov.np/content/13437/nepal-s-constitution/",
    "publishedOnBs": "2081-05-21",
-   "textUrl": null,
+   "textPath": null,
+   "textUrl": "https://raw.githubusercontent.com/dev-kiranpoudel/quiz/main/constitution/constitution.json",
    "amendedUpToBs": null,
    "version": 1
   },
@@ -8314,6 +8823,7 @@
    "pdfBytes": 8002497,
    "sourceUrl": "https://lawcommission.gov.np/content/13534/economic-ann--2082/",
    "publishedOnBs": "2082-04-30",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8330,6 +8840,7 @@
    "pdfBytes": 309327,
    "sourceUrl": "https://lawcommission.gov.np/content/13495/some-nepal-in-order-to-awaken-the/",
    "publishedOnBs": "2081-08-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8346,6 +8857,7 @@
    "pdfBytes": 4230831,
    "sourceUrl": "https://lawcommission.gov.np/content/13458/civil-criminal-procedure-code-2074/",
    "publishedOnBs": "2081-05-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8362,6 +8874,7 @@
    "pdfBytes": 1956557,
    "sourceUrl": "https://lawcommission.gov.np/content/13456/civil-code-procedure-2074/",
    "publishedOnBs": "2081-05-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8378,6 +8891,7 @@
    "pdfBytes": 2919965,
    "sourceUrl": "https://lawcommission.gov.np/content/13455/civil-code-2074/",
    "publishedOnBs": "2081-05-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8394,6 +8908,7 @@
    "pdfBytes": 2048939,
    "sourceUrl": "https://lawcommission.gov.np/content/13454/criminal-code-2074/",
    "publishedOnBs": "2081-05-28",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8410,6 +8925,7 @@
    "pdfBytes": 79285,
    "sourceUrl": "https://lawcommission.gov.np/content/13436/national-debt-gift-act--2081/",
    "publishedOnBs": "2081-05-18",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8426,6 +8942,7 @@
    "pdfBytes": 5926907,
    "sourceUrl": "https://lawcommission.gov.np/content/13434/economic-ann--2061/",
    "publishedOnBs": "2081-05-17",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8442,6 +8959,7 @@
    "pdfBytes": 584256,
    "sourceUrl": "https://lawcommission.gov.np/content/13293/appropriation-act--2081/",
    "publishedOnBs": "2081-04-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8458,6 +8976,7 @@
    "pdfBytes": 136126,
    "sourceUrl": "https://lawcommission.gov.np/content/13616/nepal-special-service-act--2083-relating-to/",
    "publishedOnBs": "2083-06-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8474,6 +8993,7 @@
    "pdfBytes": 7758305,
    "sourceUrl": "https://lawcommission.gov.np/content/13588/economic-ann--2083/",
    "publishedOnBs": "2083-04-19",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8490,6 +9010,7 @@
    "pdfBytes": 472639,
    "sourceUrl": "https://lawcommission.gov.np/content/13585/appropriation-act--2083/",
    "publishedOnBs": "2083-04-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8506,6 +9027,7 @@
    "pdfBytes": 132416,
    "sourceUrl": "https://lawcommission.gov.np/content/13584/national-debt-recovery-act--2083/",
    "publishedOnBs": "2083-04-07",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8522,6 +9044,7 @@
    "pdfBytes": 734332,
    "sourceUrl": "https://lawcommission.gov.np/content/13577/alternative-development-finance-mobilization-act--2083/",
    "publishedOnBs": "2083-03-24",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8538,6 +9061,7 @@
    "pdfBytes": 254864,
    "sourceUrl": "https://lawcommission.gov.np/content/13568/the-constitutional-council--functions--duties--powers-and/",
    "publishedOnBs": "2083-01-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8554,6 +9078,7 @@
    "pdfBytes": 251539,
    "sourceUrl": "https://lawcommission.gov.np/content/13567/prevention-of-money-laundering--third-amendment--ordinance-/",
    "publishedOnBs": "2083-01-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8570,6 +9095,7 @@
    "pdfBytes": 475050,
    "sourceUrl": "https://lawcommission.gov.np/content/13566/certain-nepal-acts-amendment-ordinance--2083/",
    "publishedOnBs": "2083-01-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8586,6 +9112,7 @@
    "pdfBytes": 244812,
    "sourceUrl": "https://lawcommission.gov.np/content/13565/ordinance--2083-to-amend-certain-acts-of/",
    "publishedOnBs": "2083-01-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8602,6 +9129,7 @@
    "pdfBytes": 654422,
    "sourceUrl": "https://lawcommission.gov.np/content/13564/special-provisions-on-dismissal-of-public-officers/",
    "publishedOnBs": "2083-01-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8618,6 +9146,7 @@
    "pdfBytes": 575773,
    "sourceUrl": "https://lawcommission.gov.np/content/13563/public-procurement--second-amendment--ordinance--2083/",
    "publishedOnBs": "2083-01-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8634,6 +9163,7 @@
    "pdfBytes": 495194,
    "sourceUrl": "https://lawcommission.gov.np/content/13561/ordinance--2083-to-amend-certain-nepal-acts/",
    "publishedOnBs": "2083-01-22",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8650,6 +9180,7 @@
    "pdfBytes": 671784,
    "sourceUrl": "https://lawcommission.gov.np/content/13553/nepal-special-service--second-amendment--ordinance--2082/",
    "publishedOnBs": "2082-08-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8666,6 +9197,7 @@
    "pdfBytes": 186594,
    "sourceUrl": "https://lawcommission.gov.np/content/13510/ordents-for-amending-some-nepal-nepal-related-related/",
    "publishedOnBs": "2081-10-20",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8682,6 +9214,7 @@
    "pdfBytes": 424154,
    "sourceUrl": "https://lawcommission.gov.np/content/12397/12397-safety-of-health-workers-and-h/",
    "publishedOnBs": "2078-12-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8698,6 +9231,7 @@
    "pdfBytes": 923167,
    "sourceUrl": "https://lawcommission.gov.np/content/12388/12388-railway-ordinance-2078/",
    "publishedOnBs": "2078-12-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8714,6 +9248,7 @@
    "pdfBytes": 468148,
    "sourceUrl": "https://lawcommission.gov.np/content/12386/12386-ordinance-to-amend-certain-law/",
    "publishedOnBs": "2078-08-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8730,6 +9265,7 @@
    "pdfBytes": 442539,
    "sourceUrl": "https://lawcommission.gov.np/content/12387/12387-ordinance-made-to-amend-the-po/",
    "publishedOnBs": "2078-05-02",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8746,6 +9282,7 @@
    "pdfBytes": 544390,
    "sourceUrl": "https://lawcommission.gov.np/content/12396/12396-safety-of-health-workers-and-h/",
    "publishedOnBs": "2078-02-23",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8762,6 +9299,7 @@
    "pdfBytes": 866847,
    "sourceUrl": "https://lawcommission.gov.np/content/12389/12389-appropriation-ordinance-2078/",
    "publishedOnBs": "2078-02-15",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8778,6 +9316,7 @@
    "pdfBytes": 607102,
    "sourceUrl": "https://lawcommission.gov.np/content/12384/12384-nepal-citizenship-first-amend/",
    "publishedOnBs": "2078-02-09",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8794,6 +9333,7 @@
    "pdfBytes": 915628,
    "sourceUrl": "https://lawcommission.gov.np/content/12383/12383-ordinance-to-make-provisions-r/",
    "publishedOnBs": "2078-02-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8810,6 +9350,7 @@
    "pdfBytes": 326536,
    "sourceUrl": "https://lawcommission.gov.np/content/12390/12390-oath-ordinance-2078/",
    "publishedOnBs": "2078-02-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8826,6 +9367,7 @@
    "pdfBytes": 515607,
    "sourceUrl": "https://lawcommission.gov.np/content/11040/11040-medicine-third-amendment-ord/",
    "publishedOnBs": "2077-08-03",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8842,6 +9384,7 @@
    "pdfBytes": 478285,
    "sourceUrl": "https://lawcommission.gov.np/content/12395/12395-social-security-first-amendme/",
    "publishedOnBs": "2077-07-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8858,6 +9401,7 @@
    "pdfBytes": 625824,
    "sourceUrl": "https://lawcommission.gov.np/content/12385/12385-ordinance-to-amend-certain-law/",
    "publishedOnBs": "2077-06-12",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8874,6 +9418,7 @@
    "pdfBytes": 468598,
    "sourceUrl": "https://lawcommission.gov.np/content/12392/12392-ordinance-to-amend-the-constit/",
    "publishedOnBs": "2077-01-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8890,6 +9435,7 @@
    "pdfBytes": 468598,
    "sourceUrl": "https://lawcommission.gov.np/content/11063/11063-constitutional-council-duty/",
    "publishedOnBs": "2077-01-08",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8906,6 +9452,7 @@
    "pdfBytes": 387189,
    "sourceUrl": "https://lawcommission.gov.np/content/12391/12391-constituent-assembly-member-el/",
    "publishedOnBs": "2070-02-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8922,6 +9469,7 @@
    "pdfBytes": 387189,
    "sourceUrl": "https://lawcommission.gov.np/content/11060/11060-constitutional-assembly-electi/",
    "publishedOnBs": "2070-02-31",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8938,6 +9486,7 @@
    "pdfBytes": 557097,
    "sourceUrl": "https://lawcommission.gov.np/content/12393/12393-vehicle-rule/",
    "publishedOnBs": "2003-11-21",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8954,6 +9503,7 @@
    "pdfBytes": 30902623,
    "sourceUrl": "https://lawcommission.gov.np/content/13615/national-ethics-policy--2083/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8970,6 +9520,7 @@
    "pdfBytes": 527402,
    "sourceUrl": "https://lawcommission.gov.np/content/13614/national-advertising-policy--2083/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -8986,6 +9537,7 @@
    "pdfBytes": 533081,
    "sourceUrl": "https://lawcommission.gov.np/content/13613/policy-on-management-and-governance-of-public/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9002,6 +9554,7 @@
    "pdfBytes": 848296,
    "sourceUrl": "https://lawcommission.gov.np/content/13612/foreign-aid-mobilization-policy--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9018,6 +9571,7 @@
    "pdfBytes": 617913,
    "sourceUrl": "https://lawcommission.gov.np/content/13611/national-labor-migration-policy--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9034,6 +9588,7 @@
    "pdfBytes": 1267352,
    "sourceUrl": "https://lawcommission.gov.np/content/13610/national-youth-policy--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9050,6 +9605,7 @@
    "pdfBytes": 19745127,
    "sourceUrl": "https://lawcommission.gov.np/content/13609/national-sports-policy--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9066,6 +9622,7 @@
    "pdfBytes": 34894094,
    "sourceUrl": "https://lawcommission.gov.np/content/13608/national-policy-against-trafficking-in-persons--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9082,6 +9639,7 @@
    "pdfBytes": 1695398,
    "sourceUrl": "https://lawcommission.gov.np/content/13607/tourism-policy--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9098,6 +9656,7 @@
    "pdfBytes": 1565476,
    "sourceUrl": "https://lawcommission.gov.np/content/13606/national-artificial-intelligence--ai--policy--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9114,6 +9673,7 @@
    "pdfBytes": 16975983,
    "sourceUrl": "https://lawcommission.gov.np/content/13605/national-population-policy--2082/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9130,6 +9690,7 @@
    "pdfBytes": 5742501,
    "sourceUrl": "https://lawcommission.gov.np/content/13604/shares-and-debt-investment-policy-/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9146,6 +9707,7 @@
    "pdfBytes": 11258384,
    "sourceUrl": "https://lawcommission.gov.np/content/13603/commerce-policy--2081/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9162,6 +9724,7 @@
    "pdfBytes": 6357138,
    "sourceUrl": "https://lawcommission.gov.np/content/13602/micro--household-and-small-scale-industries-promotion/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9178,6 +9741,7 @@
    "pdfBytes": 1717321,
    "sourceUrl": "https://lawcommission.gov.np/content/13601/national-startup-industry-policy--2081/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9194,6 +9758,7 @@
    "pdfBytes": 8152656,
    "sourceUrl": "https://lawcommission.gov.np/content/13600/water-and-meteorology-policy--2081/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9210,6 +9775,7 @@
    "pdfBytes": 6179062,
    "sourceUrl": "https://lawcommission.gov.np/content/13599/nationalcybersecuritypolicy2080/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9226,6 +9792,7 @@
    "pdfBytes": 2642644,
    "sourceUrl": "https://lawcommission.gov.np/content/13598/national-children-policy--2080/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9242,6 +9809,7 @@
    "pdfBytes": 184991,
    "sourceUrl": "https://lawcommission.gov.np/content/13597/national-insurance-policy--2080/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9258,6 +9826,7 @@
    "pdfBytes": 2237427,
    "sourceUrl": "https://lawcommission.gov.np/content/13596/national-water--sanitation-and-hygiene-policy--2080/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9274,6 +9843,7 @@
    "pdfBytes": 1254407,
    "sourceUrl": "https://lawcommission.gov.np/content/13595/radio-frequency-of-telecommunication-services--allocation-and/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9290,6 +9860,7 @@
    "pdfBytes": 1554688,
    "sourceUrl": "https://lawcommission.gov.np/content/13594/national-irrigation-policy--2080/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9306,6 +9877,7 @@
    "pdfBytes": 1280367,
    "sourceUrl": "https://lawcommission.gov.np/content/13593/green-hydrogen-policy--2080/",
    "publishedOnBs": "2083-06-06",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9322,6 +9894,7 @@
    "pdfBytes": 196787,
    "sourceUrl": "https://lawcommission.gov.np/content/12403/12403-informal-education-policy-206/",
    "publishedOnBs": "2063-10-25",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
@@ -9338,6 +9911,7 @@
    "pdfBytes": 726043,
    "sourceUrl": "https://lawcommission.gov.np/content/12404/12404-forestry-sector-policy-2000/",
    "publishedOnBs": "2057-06-14",
+   "textPath": null,
    "textUrl": null,
    "amendedUpToBs": null,
    "version": 1
