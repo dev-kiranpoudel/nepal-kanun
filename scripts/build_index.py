@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "index.json"
 RAW = Path(__file__).with_name("raw.json")
 TITLES_EN = Path(__file__).with_name("titles_en.json")  # hand-written English titles, by law id
+AMENDED = Path(__file__).with_name("amended.json")  # latest amendment dates, from amended_dates.py
 TEXT_DIR = ROOT / "data" / "text"  # converted laws: <law id>.json; the app reads text instead of the PDF
 # Laws whose text lives elsewhere. The Constitution is Sambidhan's own file, so there is one source to keep correct.
 TEXT_URLS = {"lc-13437": "https://raw.githubusercontent.com/dev-kiranpoudel/quiz/main/constitution/constitution.json"}
@@ -59,21 +60,36 @@ TYPES = [
 # Listing pages to crawl: (type, volume or None, url)
 ACT_VOLUME_IDS = [1762, 1763, 1764, 1765, 1766, 1767, 1768, 1769, 1783, 1784,
                   1785, 1786, 1787, 1788, 1789, 1790, 1791]
-REGULATION_VOLUMES = {
-    1: "volume-1-good-governance",
-    7: "volume-7-banking-insurance-financial-institution-and-money-laundering",
-    8: "volume-8-industry-corporate-and-import",
-    10: "volume-10-information-and-communication",
-    11: "volume-11-road-drinking-water-building-infrastructure",
-    12: "volume-12-food-agriculture-cooperatives-and-land-administration",
-    14: "volume-14-education-and-foreign-affair",
-    15: "volume-15-regulation-health",
-    16: "volume-16-women-children-and-culture",
-    17: "volume-17-local-level",
-}
+# Volume slugs from /pages/list-volume-regulation; split volumes (2A, 2B...) share their volume number.
+REGULATION_VOLUMES = [
+    (1, "volume-1-good-governance"),
+    (2, "volume-2A-justice-administration"),
+    (2, "volume-2B-court-and-juvenile-justice"),
+    (3, "volume-3A--political-parties-and-election"),
+    (3, "volume-3B-legislature"),
+    (4, "volume-4A-internal-administration"),
+    (4, "volume-4B-internal-administration"),
+    (4, "volume-4B-financial-administration"),
+    (5, "volume-5A-nepal-police"),
+    (5, "volume-5B-Nepal-Army"),
+    (6, "volume-6A-customs-administration"),
+    (7, "volume-7-banking-insurance-financial-institution-and-money-laundering"),
+    (8, "volume-8-industry-corporate-and-import"),
+    (9, "volume-9A-tourism-and-hotel"),
+    (9, "volume-9B-labour-and-transportation"),
+    (10, "volume-10-information-and-communication"),
+    (11, "volume-11-road-drinking-water-building-infrastructure"),
+    (12, "volume-12-food-agriculture-cooperatives-and-land-administration"),
+    (13, "volume-13A-environment-and-water-source"),
+    (13, "volume-13B-forest-and-national-park"),
+    (14, "volume-14-education-and-foreign-affair"),
+    (15, "volume-15-regulation-health"),
+    (16, "volume-16-women-children-and-culture"),
+    (17, "volume-17-local-level"),
+]
 SOURCES = (
     [("act", i + 1, f"{SITE}/category/{cid}/") for i, cid in enumerate(ACT_VOLUME_IDS)]
-    + [("regulation", v, f"{SITE}/category/{slug}/") for v, slug in REGULATION_VOLUMES.items()]
+    + [("regulation", v, f"{SITE}/category/{slug}/") for v, slug in REGULATION_VOLUMES]
     + [
         ("constitution", None, f"{SITE}/category/1807/"),
         ("act", None, f"{SITE}/category/2166/"),  # acts outside the volumes (Muluki codes etc.)
@@ -163,6 +179,7 @@ def crawl():
 
 def build(raw):
     titles_en = json.loads(TITLES_EN.read_text())
+    amended = json.loads(AMENDED.read_text()) if AMENDED.exists() else {}
     laws, seen = [], set()
     for r in raw:
         law_id = f"lc-{r['contentId']}"
@@ -185,7 +202,11 @@ def build(raw):
             "publishedOnBs": bs_date(r["published"]),
             "textPath": f"text/{law_id}.json" if has_file else None,  # relative to data/
             "textUrl": TEXT_URLS.get(law_id),  # app 1.0.1 ignores this, so it keeps the PDF
-            "amendedUpToBs": None,
+            # Only trust a date read from this exact PDF; a new PDF waits for the next amended_dates.py run.
+            # Ordinances and policies have no amendment table, so their page-1 dates mean something else.
+            "amendedUpToBs": amended[law_id]["amendedUpToBs"]
+            if amended.get(law_id, {}).get("pdf") == r["pdf"] and r["type"] in ("act", "regulation", "constitution")
+            else None,
             "version": 1,
         })
     categories = [{"id": "muluki", "nameNe": "मुलुकी ऐन (संहिता)", "nameEn": "Muluki Codes", "icon": "scale", "volume": None}]
