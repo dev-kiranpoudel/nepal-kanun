@@ -6,7 +6,8 @@ Usage:
 
 Also checks data/home.json against the new index. Commit and push data/ to publish.
 
-shortcut: pdfUrl points at the official CDN; mirror the PDFs on our storage before release.
+pdfUrl is our copy in the GitHub Release when scripts/mirrored.json has one for that exact
+official PDF; otherwise the official CDN link.
 """
 import html
 import json
@@ -22,6 +23,8 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "index.json"
 RAW = Path(__file__).with_name("raw.json")
 TITLES_EN = Path(__file__).with_name("titles_en.json")  # hand-written English titles, by law id
+MIRRORED = Path(__file__).with_name("mirrored.json")  # law id -> official PDF link our Release copy was taken from
+MIRROR_BASE = "https://github.com/dev-kiranpoudel/nepal-kanun/releases/download/pdfs-v1"
 AMENDED = Path(__file__).with_name("amended.json")  # latest amendment dates, from amended_dates.py
 TEXT_DIR = ROOT / "data" / "text"  # converted laws: <law id>.json; the app reads text instead of the PDF
 # Laws whose text lives elsewhere. The Constitution is Sambidhan's own file, so there is one source to keep correct.
@@ -180,6 +183,7 @@ def crawl():
 def build(raw):
     titles_en = json.loads(TITLES_EN.read_text())
     amended = json.loads(AMENDED.read_text()) if AMENDED.exists() else {}
+    mirrored = json.loads(MIRRORED.read_text()) if MIRRORED.exists() else {}
     laws, seen = [], set()
     for r in raw:
         law_id = f"lc-{r['contentId']}"
@@ -196,7 +200,8 @@ def build(raw):
             "categoryId": f"v{r['volume']}" if r["volume"] else ("muluki" if r["title"].startswith("मुलुकी") else None),
             "yearBs": year_from_title(r["title"]),
             "status": "text" if has_text else "pdf",
-            "pdfUrl": r["pdf"],
+            # A re-uploaded official PDF (new link) falls back to the official CDN until mirrored again.
+            "pdfUrl": f"{MIRROR_BASE}/{law_id}.pdf" if mirrored.get(law_id) == r["pdf"] else r["pdf"],
             "pdfBytes": r.get("pdfBytes"),
             "sourceUrl": r["page"],
             "publishedOnBs": bs_date(r["published"]),
