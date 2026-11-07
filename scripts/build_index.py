@@ -23,7 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "index.json"
 RAW = Path(__file__).with_name("raw.json")
 TITLES_EN = Path(__file__).with_name("titles_en.json")  # hand-written English titles, by law id
-MIRRORED = Path(__file__).with_name("mirrored.json")  # law id -> official PDF link our Release copy was taken from
+MIRRORED = Path(__file__).with_name("mirrored.json")  # law id -> {pdf: official link it stands in for, bytes, source}
 MIRROR_BASE = "https://github.com/dev-kiranpoudel/nepal-kanun/releases/download/pdfs-v1"
 AMENDED = Path(__file__).with_name("amended.json")  # latest amendment dates, from amended_dates.py
 TEXT_DIR = ROOT / "data" / "text"  # converted laws: <law id>.json; the app reads text instead of the PDF
@@ -191,6 +191,7 @@ def build(raw):
             continue
         seen.add(law_id)
         has_file = (TEXT_DIR / f"{law_id}.json").exists()
+        mirror = mirrored.get(law_id) if mirrored.get(law_id, {}).get("pdf") == r["pdf"] else None
         has_text = has_file or law_id in TEXT_URLS
         laws.append({
             "id": law_id,
@@ -201,8 +202,8 @@ def build(raw):
             "yearBs": year_from_title(r["title"]),
             "status": "text" if has_text else "pdf",
             # A re-uploaded official PDF (new link) falls back to the official CDN until mirrored again.
-            "pdfUrl": f"{MIRROR_BASE}/{law_id}.pdf" if mirrored.get(law_id) == r["pdf"] else r["pdf"],
-            "pdfBytes": r.get("pdfBytes"),
+            "pdfUrl": f"{MIRROR_BASE}/{law_id}.pdf" if mirror else r["pdf"],
+            "pdfBytes": mirror["bytes"] if mirror else r.get("pdfBytes"),
             "sourceUrl": r["page"],
             "publishedOnBs": bs_date(r["published"]),
             "textPath": f"text/{law_id}.json" if has_file else None,  # relative to data/
