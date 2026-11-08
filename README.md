@@ -36,7 +36,9 @@ python3 scripts/amended_dates.py          # 5. read the new PDFs' "amended up to
 python3 scripts/build_index.py --cached   # 6. write the dates into data/index.json
 ```
 
-Commit and push only after step 3 has uploaded the files, or the app gets links to files that do not exist yet. A law whose download failed in step 3 keeps its previous copy; run step 3 again later. A day or more after pushing, `python3 scripts/mirror_pdfs.py --prune` deletes Release files no law uses any more (a Release holds at most 1000 files).
+Commit and push only after step 3 has uploaded the files, or the app gets links to files that do not exist yet. A law whose download failed in step 3 keeps its previous copy; run step 3 again later. `--prune` (step 3) first deletes Release files that an earlier run replaced, so the Release stays under its 1000-file limit; files replaced in the current run stay until the next run, because phones on yesterday's index still ask for them.
+
+The weekly GitHub Action (`.github/workflows/update-laws.yml`, Sundays, or run it from the Actions tab) does all six steps, commits and pushes if anything changed, and opens an issue listing new and updated laws. If the crawl looks incomplete (more than 2% fewer laws) or a check fails, the run fails without pushing and GitHub emails the repo owner.
 
 - English titles: edit `scripts/titles_en.json` (law id to title). After a crawl the script lists new laws that still need one.
 - Home screen: edit `data/home.json`; the script checks that every id in it exists.

@@ -3,7 +3,7 @@
 Run after a crawl (build_index.py) and before rebuilding the index (build_index.py --cached):
   python3 scripts/mirror_pdfs.py --dry-run   # list new and updated laws, change nothing
   python3 scripts/mirror_pdfs.py             # download, check, upload, record in mirrored.json
-  python3 scripts/mirror_pdfs.py --prune     # also delete Release files no law uses any more
+  python3 scripts/mirror_pdfs.py --prune     # first delete Release files replaced in an earlier run
 
 A law needs copying when its official PDF link (scripts/raw.json, from the crawl) differs from
 the one in scripts/mirrored.json: Law Commission gives every upload a new file name, so a new
@@ -90,6 +90,14 @@ def main():
     dry, prune = "--dry-run" in sys.argv, "--prune" in sys.argv
     raw = json.loads(RAW.read_text())
     mirrored = json.loads(MIRRORED.read_text())
+    if prune and not dry:
+        # Before uploading, so only files replaced in an earlier run go: phones on the index pushed
+        # before this run still ask for the files this run replaces.
+        used = {asset_of(i, e) for i, e in mirrored.items()}
+        assets = json.loads(gh("release", "view", TAG, "--json", "assets"))["assets"]
+        for name in sorted(a["name"] for a in assets if a["name"] not in used):
+            gh("release", "delete-asset", TAG, name, "--yes")
+            print(f"  deleted unused {name}")
     todo = pending(raw, mirrored)
     print(f"{len(todo)} to copy: {sum(t[3] for t in todo)} new laws, {sum(not t[3] for t in todo)} updated")
     failed = []
@@ -112,13 +120,6 @@ def main():
             # Save after each upload, so an interrupted run never loses a copy it made.
             MIRRORED.write_text(json.dumps(mirrored, ensure_ascii=False, indent=1, sort_keys=True) + "\n")
             time.sleep(0.5)  # one at a time; the gov site drops bursts
-    if prune and not dry:
-        # Run this a day or more after pushing: phones on yesterday's index still ask for the old files.
-        used = {asset_of(i, e) for i, e in mirrored.items()}
-        assets = json.loads(gh("release", "view", TAG, "--json", "assets"))["assets"]
-        for name in sorted(a["name"] for a in assets if a["name"] not in used):
-            gh("release", "delete-asset", TAG, name, "--yes")
-            print(f"  deleted unused {name}")
     if failed:
         print(f"{len(failed)} failed (retry later): {' '.join(failed)}")
     if not dry:

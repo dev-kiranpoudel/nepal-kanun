@@ -256,6 +256,11 @@ if __name__ == "__main__":
     raw = json.loads(RAW.read_text()) if "--cached" in sys.argv else crawl()
     index = build(raw)
     self_check(index)
+    # A listing page that fails to load reads as the end of that list, so a bad crawl drops laws silently.
+    old = len(json.loads(OUT.read_text())["laws"]) if OUT.exists() else 0
+    if len(index["laws"]) < old * 0.98 and "--allow-shrink" not in sys.argv:
+        sys.exit(f"crawl found {len(index['laws'])} laws, the current index has {old}; not writing "
+                 "(rerun later, or pass --allow-shrink if laws really were removed)")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n")
     counts = {}

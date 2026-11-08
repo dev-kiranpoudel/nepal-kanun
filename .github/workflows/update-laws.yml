@@ -1,0 +1,70 @@
+# Weekly: crawl Law Commission, copy new and amended PDFs to our Release, rebuild data/index.json.
+# Pushes only when something changed, and opens an issue listing the new and updated laws.
+name: Update laws
+
+on:
+  schedule:
+    - cron: "15 1 * * 0" # Sundays 01:15 UTC (07:00 Nepal time)
+  workflow_dispatch:
+
+permissions:
+  contents: write # push data/, upload Release files
+  issues: write
+
+concurrency:
+  group: update-laws
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pypdfium2==5.15.0
+
+      - name: Crawl lawcommission.gov.np
+        run: python3 scripts/build_index.py
+
+      - name: Copy new and amended PDFs to the Release
+        run: python3 scripts/mirror_pdfs.py --prune | tee mirror.log
+
+      - name: Rebuild with the new copies and amendment dates
+        run: |
+          python3 scripts/build_index.py --cached
+          python3 scripts/amended_dates.py
+          python3 scripts/build_index.py --cached
+
+      - name: Commit and push if anything changed
+        id: commit
+        run: |
+          git add data/index.json scripts/mirrored.json scripts/amended.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Weekly law update $(date -u +%Y-%m-%d)"
+          git push
+          echo "pushed=1" >> "$GITHUB_OUTPUT"
+
+      - name: Open an issue listing new and updated laws
+        if: steps.commit.outputs.pushed == '1'
+        run: |
+          {
+            echo "This week's crawl changed data/index.json (pushed to main). From mirror_pdfs.py:"
+            echo
+            echo '```'
+            cat mirror.log
+            echo '```'
+            echo
+            echo "New laws may need an English title in scripts/titles_en.json."
+          } > issue.md
+          gh issue create --title "Law update $(date -u +%Y-%m-%d)" --body-file issue.md
