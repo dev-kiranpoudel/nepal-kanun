@@ -7,7 +7,8 @@ Usage:
 Also checks data/home.json against the new index. Commit and push data/ to publish.
 
 pdfUrl is our copy in the GitHub Release when scripts/mirrored.json has one for that exact
-official PDF; otherwise the official CDN link.
+official PDF; otherwise the official CDN link. officialPdfUrl is always the official link (the
+app's fallback). After a crawl, run scripts/mirror_pdfs.py first so new and amended laws get a copy.
 """
 import html
 import json
@@ -23,7 +24,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "index.json"
 RAW = Path(__file__).with_name("raw.json")
 TITLES_EN = Path(__file__).with_name("titles_en.json")  # hand-written English titles, by law id
-MIRRORED = Path(__file__).with_name("mirrored.json")  # law id -> {pdf: official link it stands in for, bytes, source}
+MIRRORED = Path(__file__).with_name("mirrored.json")  # law id -> {pdf: official link it stands in for, bytes, source, asset}
 MIRROR_BASE = "https://github.com/dev-kiranpoudel/nepal-kanun/releases/download/pdfs-v1"
 AMENDED = Path(__file__).with_name("amended.json")  # latest amendment dates, from amended_dates.py
 TEXT_DIR = ROOT / "data" / "text"  # converted laws: <law id>.json; the app reads text instead of the PDF
@@ -202,7 +203,8 @@ def build(raw):
             "yearBs": year_from_title(r["title"]),
             "status": "text" if has_text else "pdf",
             # A re-uploaded official PDF (new link) falls back to the official CDN until mirrored again.
-            "pdfUrl": f"{MIRROR_BASE}/{law_id}.pdf" if mirror else r["pdf"],
+            "pdfUrl": f"{MIRROR_BASE}/{mirror.get('asset', f'{law_id}.pdf')}" if mirror else r["pdf"],
+            "officialPdfUrl": r["pdf"],
             "pdfBytes": mirror["bytes"] if mirror else r.get("pdfBytes"),
             "sourceUrl": r["page"],
             "publishedOnBs": bs_date(r["published"]),
@@ -234,6 +236,7 @@ def self_check(index):
     ids = [law["id"] for law in index["laws"]]
     assert len(ids) == len(set(ids)), "duplicate law ids"
     assert all(law["pdfUrl"] and law["publishedOnBs"] for law in index["laws"]), "law missing pdf or date"
+    assert all(law["officialPdfUrl"].startswith("http") for law in index["laws"])
     category_ids = {c["id"] for c in index["categories"]}
     assert all(law["categoryId"] in category_ids | {None} for law in index["laws"])
     home = json.loads((OUT.parent / "home.json").read_text())

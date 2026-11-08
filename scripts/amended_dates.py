@@ -7,7 +7,8 @@ clean, so the latest date in that table is the law's "amended up to" date.
 Usage (needs `pip install pypdfium2`; run after build_index.py, then rerun build_index.py --cached):
   python3 scripts/amended_dates.py
 
-Results are cached in scripts/amended.json by PDF URL, so a rerun only reads new or changed PDFs.
+Results are cached in scripts/amended.json by the official PDF URL (officialPdfUrl), so a rerun
+only reads new or changed PDFs. The file itself is read from pdfUrl, our GitHub copy when there is one.
 A law with no amendment table gets null (never amended, as far as its PDF says).
 """
 import json
@@ -74,7 +75,9 @@ if __name__ == "__main__":
     self_check()
     laws = json.loads(INDEX.read_text())["laws"]
     cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
-    todo = [law for law in laws if cache.get(law["id"], {}).get("pdf") != law["pdfUrl"]]
+    # build_index.py trusts a date only for this exact official PDF, so key the cache on the official link.
+    official = lambda law: law.get("officialPdfUrl") or law["pdfUrl"]
+    todo = [law for law in laws if cache.get(law["id"], {}).get("pdf") != official(law)]
     print(f"{len(todo)} PDFs to read, {len(laws) - len(todo)} cached")
 
     def work(law):
@@ -90,7 +93,7 @@ if __name__ == "__main__":
             try:
                 if err:
                     raise err
-                cache[law["id"]] = {"pdf": law["pdfUrl"], "amendedUpToBs": parse(data)}
+                cache[law["id"]] = {"pdf": official(law), "amendedUpToBs": parse(data)}
             except Exception as e:
                 failed += 1
                 print(f"failed {law['id']}: {e}", file=sys.stderr)
