@@ -24,6 +24,7 @@ TO_DEV = str.maketrans("0123456789", DEV)
 NUM = f"[{DEV}]+"
 SEC_TITLE = re.compile(rf"^दफा\s*({NUM})\s*\(?([क-ह]?)\)?\s*[:ःঃ।.]?\s*(.*)")
 LENGTH_SLACK = 0.15
+AMEND_MARK = re.compile("[\ue000-\uf8ff¥]")  # the PDF marks amended text with symbol-font glyphs
 
 
 def norm(s):
@@ -119,12 +120,13 @@ def pdf_sections(lines, wanted):
         if m and m.group(1) in wanted_set and m.group(1) not in secs:
             k = sec_key(m.group(1))
             if k > last and k[0] - last[0] <= 3:
-                cur = {"num": m.group(1), "pages": [page], "lines": [m.group(2)]}
+                cur = {"num": m.group(1), "pages": [page], "lines": [m.group(2)], "amended": bool(AMEND_MARK.search(raw))}
                 secs[cur["num"]] = cur
                 last = k
                 continue
         if cur:
             cur["lines"].append(l)
+            cur["amended"] = cur["amended"] or bool(AMEND_MARK.search(raw))
             if page not in cur["pages"]:
                 cur["pages"].append(page)
     for s in secs.values():
