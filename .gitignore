@@ -1,2 +1,4 @@
 scripts/raw.json
 __pycache__/
+work/
+.venv/

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedOn": "2026-11-08",
+ "generatedOn": "2026-11-09",
  "source": "https://lawcommission.gov.np",
  "types": [
   {
@@ -12189,13 +12189,13 @@
    "type": "act",
    "categoryId": "muluki",
    "yearBs": 2074,
-   "status": "pdf",
+   "status": "text",
    "pdfUrl": "https://github.com/dev-kiranpoudel/nepal-kanun/releases/download/pdfs-v1/lc-13454.pdf",
    "officialPdfUrl": "https://giwmscdnone.gov.np/media/pdf_upload/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A5%81%E0%A4%95%E0%A5%80%20%E0%A4%85%E0%A4%AA%E0%A4%B0%E0%A4%BE%E0%A4%A7%20%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE%2C%20%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AA_it7vg66.pdf",
    "pdfBytes": 2048939,
    "sourceUrl": "https://lawcommission.gov.np/content/13454/criminal-code-2074/",
    "publishedOnBs": "2081-05-28",
-   "textPath": null,
+   "textPath": "text/lc-13454.json",
    "textUrl": null,
    "amendedUpToBs": "2080-12-30",
    "version": 1
