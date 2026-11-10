@@ -88,7 +88,9 @@ def build(tree, fixes, en=None):
             parts.append(part)
         elif not kids and n is not tree:  # a leaf that isn't a section: preamble, schedule
             number, name = split_heading(n["title"])
-            sec = {"title": name or n["title"], "description": body(n["text"])}
+            fix = fixes.get(norm(n["title"]).strip(), {})  # e.g. "प्रस्तावना": {"text": ...}
+            text = fix if isinstance(fix, str) else fix.get("text", n["text"])
+            sec = {"title": name or n["title"], "description": body(text)}
             part = {"number": number, "name": name or n["title"], "sections": [sec]}
             if en and norm(n["title"]).startswith("प्रस्तावना") and en.get("preamble"):
                 part.update(numberEn="", nameEn="Preamble")

@@ -25,6 +25,19 @@ NUM = f"[{DEV}]+"
 SEC_TITLE = re.compile(rf"^दफा\s*({NUM})\s*\(?([क-ह]?)\)?\s*[:ःঃ।.]?\s*(.*)")
 LENGTH_SLACK = 0.15
 AMEND_MARK = re.compile("[\ue000-\uf8ff¥]")  # the PDF marks amended text with symbol-font glyphs
+# Older PDFs (Civil Code) set the body in the Preeti font: ASCII in the text layer, "-!_" for "(१)".
+# shortcut: maps only digits, clause brackets, visarga and the section letter, which is all the check reads;
+# ASCII 0-9 are Preeti letters (ण ज्ञ द्द ...), so they become letters, not digits. Upgrade to a full
+# Preeti converter if a law ever has to take its base text from such a PDF's text layer.
+PREETI = str.maketrans({**dict(zip("!@#$%^&*()", "१२३४५६७८९०")), **dict(zip("0123456789", "णजदघदछटठडढ")),
+                        "-": "(", "_": ")", "=": ".", ".": "।", "M": "ः"})
+
+
+def preeti(line):
+    if re.search("[\u0900-\u097f]", line):
+        return line  # already Unicode (footnotes, some amended lines)
+    line = line.translate(PREETI)
+    return re.sub(r"([०-९])([svu])(?=\.)", lambda m: m.group(1) + "कखग"["svu".index(m.group(2))], line)
 
 
 def norm(s):
@@ -92,7 +105,7 @@ def pdf_lines(law_id):
         for l in page[:cut]:
             if "lawcommission.gov.np" in l or re.fullmatch(r"\s*\d+\s*", l) or not l.strip():
                 continue
-            lines.append((i + 1, l))
+            lines.append((i + 1, preeti(l)))
     return doc, lines
 
 
@@ -102,9 +115,9 @@ def pdf_sections(lines, wanted):
     # Some headings lose their dot ("३७ िदम्र्ाद"); only the next expected number counts, so that's safe.
     heading = re.compile(rf"^\s*({NUM}[क-ह]?)\s*\.?\s+(.*)")
     # Page 1 lists the amending acts as "१. ...", so sections start after the preamble.
-    start = next((i for i, (_, l) in enumerate(lines) if re.search("प्रस्ता[िव]न", l)), 0)
+    start = next((i for i, (_, l) in enumerate(lines) if re.search("प्रस्ता[िव]न|k\\|:tfjgf", l)), 0)
     lines = lines[start:]
-    chapter = re.compile(r"^\s*(िाग|भाग|पररच्छेद|परिच्छेद)\s*[-–]?\s*[०-९]")
+    chapter = re.compile(r"^\s*(िाग|भाग|पररच्छेद|परिच्छेद|efu|kl/R5]b)\s*[-–]?\s*[०-९]")
     skip_next = False
     for page, raw in lines:
         l = norm(raw)
