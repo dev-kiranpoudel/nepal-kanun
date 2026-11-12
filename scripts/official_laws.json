@@ -1,0 +1,20 @@
+[
+ {
+  "id": "gov-national-health-policy-2076",
+  "titleNe": "राष्ट्रिय स्वास्थ्य नीति, २०७६",
+  "titleEn": "National Health Policy, 2076",
+  "type": "policy",
+  "categoryId": "v15",
+  "yearBs": 2076,
+  "status": "pdf",
+  "pdfUrl": "https://github.com/dev-kiranpoudel/nepal-kanun/releases/download/pdfs-v1/gov-national-health-policy-2076.pdf",
+  "officialPdfUrl": "https://climate.mohp.gov.np/downloads/National_Health_Policy_2076.pdf",
+  "pdfBytes": 715798,
+  "sourceUrl": "https://climate.mohp.gov.np/download",
+  "publishedOnBs": "2075-09-20",
+  "textPath": null,
+  "textUrl": null,
+  "amendedUpToBs": null,
+  "version": 1
+ }
+]
