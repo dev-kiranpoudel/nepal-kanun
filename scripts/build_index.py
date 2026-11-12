@@ -27,6 +27,8 @@ TITLES_EN = Path(__file__).with_name("titles_en.json")  # hand-written English t
 MIRRORED = Path(__file__).with_name("mirrored.json")  # law id -> {pdf: official link it stands in for, bytes, source, asset}
 MIRROR_BASE = "https://github.com/dev-kiranpoudel/nepal-kanun/releases/download/pdfs-v1"
 AMENDED = Path(__file__).with_name("amended.json")  # latest amendment dates, from amended_dates.py
+# Laws Law Commission does not publish, from official government sites, in index format; added as they are.
+OFFICIAL = Path(__file__).with_name("official_laws.json")
 TEXT_DIR = ROOT / "data" / "text"  # converted laws: <law id>.json; the app reads text instead of the PDF
 # Laws whose text lives elsewhere. The Constitution is Sambidhan's own file, so there is one source to keep correct.
 TEXT_URLS = {"lc-13437": "https://raw.githubusercontent.com/dev-kiranpoudel/quiz/main/constitution/constitution.json"}
@@ -219,6 +221,7 @@ def build(raw):
         })
     categories = [{"id": "muluki", "nameNe": "मुलुकी ऐन (संहिता)", "nameEn": "Muluki Codes", "icon": "scale", "volume": None}]
     categories += [{"id": f"v{n}", "nameNe": name, "nameEn": name_en, "icon": icon, "volume": n} for n, name, name_en, icon in CATEGORIES]
+    laws += json.loads(OFFICIAL.read_text())
     return {
         "schemaVersion": 1,
         "generatedOn": date.today().isoformat(),
