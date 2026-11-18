@@ -15,6 +15,8 @@ assert num("दफा ५ः विशेष ऐन") == "५"
 assert sorted(["९५", "८९", "१९२क", "१९२"], key=sec_key) == ["८९", "९५", "१९२", "१९२क"]
 assert fix_markers("१) यस ऐनको\nक) अदालत\n(२) यो") == "(१) यस ऐनको\n(क) अदालत\n(२) यो"
 assert digits("२०७9।03।31") == ["२०७९", "०३", "३१"]
+from check_text import preeti
+assert preeti("!(@s= gfd M -!_ o;") == "१९२क. gfd ः (१) o;" and preeti("2080।04।12") == "2080।04।12"
 assert split_heading("परिच्छेद-७क. आतङ्ककारी कार्य") == ("परिच्छेद-७क", "आतङ्ककारी कार्य")
 
 # A placeholder (empty, same number) elsewhere in the tree is dropped; sections sort by number.
@@ -32,6 +34,17 @@ first = out["detailList"][0]["list"]
 assert [s["title"] for s in first] == ["१. एक", "२. दुई (सच्याइएको)"]
 assert first[0]["description"] == "(१) पहिलो\n\n(२) दोस्रो"
 assert [s["title"] for s in out["detailList"][1]["list"]] == ["३. तीन"]
+
+# Flat source items (another website or a PDF transcription) nest into the same tree.
+from build_web import tree_from_items
+flat = tree_from_items([{"title": "प्रस्तावना", "text": "पाठ"}, {"title": "भाग-१ सामान्य"},
+                        {"title": "परिच्छेद-१ क"}, {"title": "दफा 1: एक", "text": "(१) पहिलो"},
+                        {"title": "परिच्छेद-२ ख"}, {"title": "दफा २: दुई", "text": "दुई"},
+                        {"title": "अनुसूची-१ फाराम", "text": "फाराम"}], "ऐन")
+out = build(flat, {})
+assert [h["title"] for h in out["homeList"]] == ["", "भाग-१, परिच्छेद-१", "भाग-१, परिच्छेद-२", "अनुसूची-१"]
+assert out["detailList"][1]["list"][0]["title"] == "१. एक"
+assert build(flat, {"प्रस्तावना": {"text": "सच्याइएको"}})["detailList"][0]["list"][0]["description"] == "सच्याइएको"
 print("ok")
 
 # ---- English ----
